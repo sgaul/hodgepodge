@@ -1,0 +1,2315 @@
+Subgroup,District Code,District Name,Statu,CHRONIC COUNTS,CHRONIC PERCENT
+Gender,1,Andover School District,Female, - ,*
+Gender,1,Andover School District,Male, - ,*
+Gender,2,Ansonia School District,Female,186,15.07293355
+Gender,2,Ansonia School District,Male,226,17.34458941
+Gender,3,Ashford School District,Female,20,8.368200837
+Gender,3,Ashford School District,Male, - ,*
+Gender,4,Avon School District,Female,69,3.956422018
+Gender,4,Avon School District,Male,60,3.393665158
+Gender,5,Barkhamsted School District,Female, - ,*
+Gender,5,Barkhamsted School District,Male, - ,*
+Gender,7,Berlin School District,Female,93,6.485355649
+Gender,7,Berlin School District,Male,66,4.174573055
+Gender,8,Bethany School District,Female, - ,*
+Gender,8,Bethany School District,Male, - ,*
+Gender,9,Bethel School District,Female,144,10.01390821
+Gender,9,Bethel School District,Male,156,9.974424552
+Gender,11,Bloomfield School District,Female,95,9.214354995
+Gender,11,Bloomfield School District,Male,87,7.916287534
+Gender,12,Bolton School District,Female, - ,*
+Gender,12,Bolton School District,Male, - ,*
+Gender,13,Bozrah School District,Female, - ,*
+Gender,13,Bozrah School District,Male, - ,*
+Gender,14,Branford School District,Female,121,7.39608802
+Gender,14,Branford School District,Male,120,7.228915663
+Gender,15,Bridgeport School District,Female,1929,19.71787795
+Gender,15,Bridgeport School District,Male,2253,21.70311145
+Gender,17,Bristol School District,Female,428,10.61771273
+Gender,17,Bristol School District,Male,552,12.68673868
+Gender,18,Brookfield School District,Female,67,4.67877095
+Gender,18,Brookfield School District,Male,68,4.846756949
+Gender,19,Brooklyn School District,Female,34,7.727272727
+Gender,19,Brooklyn School District,Male,52,10.76604555
+Gender,21,Canaan School District,Female, - ,*
+Gender,21,Canaan School District,Male, - ,*
+Gender,22,Canterbury School District,Female, - ,*
+Gender,22,Canterbury School District,Male, - ,*
+Gender,23,Canton School District,Female,45,5.102040816
+Gender,23,Canton School District,Male,34,3.926096998
+Gender,24,Chaplin School District,Female, - ,*
+Gender,24,Chaplin School District,Male, - ,*
+Gender,25,Cheshire School District,Female,139,5.837883242
+Gender,25,Cheshire School District,Male,159,6.52173913
+Gender,26,Chester School District,Female, - ,*
+Gender,26,Chester School District,Male, - ,*
+Gender,27,Clinton School District,Female,100,10.28806584
+Gender,27,Clinton School District,Male,106,10.23166023
+Gender,28,Colchester School District,Female,41,2.733333333
+Gender,28,Colchester School District,Male,40,2.666666667
+Gender,29,Colebrook School District,Female, - ,*
+Gender,29,Colebrook School District,Male, - ,*
+Gender,30,Columbia School District,Female, - ,*
+Gender,30,Columbia School District,Male, - ,*
+Gender,31,Cornwall School District,Female, - ,*
+Gender,31,Cornwall School District,Male, - ,*
+Gender,32,Coventry School District,Female,68,7.513812155
+Gender,32,Coventry School District,Male,73,8.314350797
+Gender,33,Cromwell School District,Female,57,6.019007392
+Gender,33,Cromwell School District,Male,65,6.21414914
+Gender,34,Danbury School District,Female,574,11.19781506
+Gender,34,Danbury School District,Male,775,14.41592262
+Gender,35,Darien School District,Female,83,3.550042772
+Gender,35,Darien School District,Male,84,3.366733467
+Gender,36,Deep River School District,Female, - ,*
+Gender,36,Deep River School District,Male, - ,*
+Gender,37,Derby School District,Female,96,13.57850071
+Gender,37,Derby School District,Male,108,14.0077821
+Gender,39,Eastford School District,Female, - ,*
+Gender,39,Eastford School District,Male, - ,*
+Gender,40,East Granby School District,Female,29,7.196029777
+Gender,40,East Granby School District,Male, - ,*
+Gender,41,East Haddam School District,Female,58,9.020217729
+Gender,41,East Haddam School District,Male,45,6.99844479
+Gender,42,East Hampton School District,Female,57,5.840163934
+Gender,42,East Hampton School District,Male,45,4.591836735
+Gender,43,East Hartford School District,Female,287,8.362470862
+Gender,43,East Hartford School District,Male,352,9.452201933
+Gender,44,East Haven School District,Female,243,15.25423729
+Gender,44,East Haven School District,Male,275,16.22418879
+Gender,45,East Lyme School District,Female,82,5.503355705
+Gender,45,East Lyme School District,Male,88,5.894172806
+Gender,46,Easton School District,Female,24,4.979253112
+Gender,46,Easton School District,Male,21,3.626943005
+Gender,47,East Windsor School District,Female,69,10.83202512
+Gender,47,East Windsor School District,Male,77,11.86440678
+Gender,48,Ellington School District,Female,67,4.981412639
+Gender,48,Ellington School District,Male,51,3.687635575
+Gender,49,Enfield School District,Female,351,12.76363636
+Gender,49,Enfield School District,Male,328,11.31034483
+Gender,50,Essex School District,Female, - ,*
+Gender,50,Essex School District,Male,24,8.163265306
+Gender,51,Fairfield School District,Female,346,6.798978188
+Gender,51,Fairfield School District,Male,378,7.194518462
+Gender,52,Farmington School District,Female,127,6.446700508
+Gender,52,Farmington School District,Male,139,6.528886801
+Gender,53,Franklin School District,Female, - ,*
+Gender,53,Franklin School District,Male, - ,*
+Gender,54,Glastonbury School District,Female,142,4.221165279
+Gender,54,Glastonbury School District,Male,149,4.453078302
+Gender,56,Granby School District,Female,49,4.662226451
+Gender,56,Granby School District,Male,37,3.372835005
+Gender,57,Greenwich School District,Female,242,5.69277817
+Gender,57,Greenwich School District,Male,268,5.892700088
+Gender,58,Griswold School District,Female,102,10.52631579
+Gender,58,Griswold School District,Male,105,10.34482759
+Gender,59,Groton School District,Female,321,13.55574324
+Gender,59,Groton School District,Male,374,14.8295004
+Gender,60,Guilford School District,Female,93,5.210084034
+Gender,60,Guilford School District,Male,112,5.982905983
+Gender,62,Hamden School District,Female,339,12.13314245
+Gender,62,Hamden School District,Male,420,13.66742597
+Gender,63,Hampton School District,Female, - ,*
+Gender,63,Hampton School District,Male, - ,*
+Gender,64,Hartford School District,Female,2578,25.46675887
+Gender,64,Hartford School District,Male,2997,27.98841987
+Gender,65,Hartland School District,Female, - ,*
+Gender,65,Hartland School District,Male, - ,*
+Gender,67,Hebron School District,Female, - ,*
+Gender,67,Hebron School District,Male, - ,*
+Gender,68,Kent School District,Female, - ,*
+Gender,68,Kent School District,Male, - ,*
+Gender,69,Killingly School District,Female,191,14.72629144
+Gender,69,Killingly School District,Male,171,12.6572909
+Gender,71,Lebanon School District,Female,56,8.497723824
+Gender,71,Lebanon School District,Male,50,7.949125596
+Gender,72,Ledyard School District,Female,107,8.372456964
+Gender,72,Ledyard School District,Male,107,8.174178762
+Gender,73,Lisbon School District,Female, - ,*
+Gender,73,Lisbon School District,Male, - ,*
+Gender,74,Litchfield School District,Female,36,6.50994575
+Gender,74,Litchfield School District,Male,35,6.306306306
+Gender,76,Madison School District,Female,76,4.50503853
+Gender,76,Madison School District,Male,70,3.928170595
+Gender,77,Manchester School District,Female,690,23.06149733
+Gender,77,Manchester School District,Male,736,22.38442822
+Gender,78,Mansfield School District,Female,39,6.161137441
+Gender,78,Mansfield School District,Male,39,5.595408895
+Gender,79,Marlborough School District,Female, - ,*
+Gender,79,Marlborough School District,Male, - ,*
+Gender,80,Meriden School District,Female,441,11.20426829
+Gender,80,Meriden School District,Male,493,11.64933837
+Gender,83,Middletown School District,Female,243,10.00411692
+Gender,83,Middletown School District,Male,256,10.05104044
+Gender,84,Milford School District,Female,321,9.85267035
+Gender,84,Milford School District,Male,401,11.33729149
+Gender,85,Monroe School District,Female,122,7.052023121
+Gender,85,Monroe School District,Male,106,5.668449198
+Gender,86,Montville School District,Female,96,7.723250201
+Gender,86,Montville School District,Male,89,6.830391404
+Gender,88,Naugatuck School District,Female,272,12.66884024
+Gender,88,Naugatuck School District,Male,294,12.38416175
+Gender,89,New Britain School District,Female,1249,26.0588358
+Gender,89,New Britain School District,Male,1301,24.49632838
+Gender,90,New Canaan School District,Female,219,10.55421687
+Gender,90,New Canaan School District,Male,191,9.065021357
+Gender,91,New Fairfield School District,Female,84,6.126914661
+Gender,91,New Fairfield School District,Male,105,6.953642384
+Gender,92,New Hartford School District,Female, - ,*
+Gender,92,New Hartford School District,Male, - ,*
+Gender,93,New Haven School District,Female,2130,20.84964761
+Gender,93,New Haven School District,Male,2240,21.62997296
+Gender,94,Newington School District,Female,89,4.162768943
+Gender,94,Newington School District,Male,107,4.815481548
+Gender,95,New London School District,Female,328,24.11764706
+Gender,95,New London School District,Male,392,24.82583914
+Gender,96,New Milford School District,Female,211,9.377777778
+Gender,96,New Milford School District,Male,214,8.846630839
+Gender,97,Newtown School District,Female,109,4.318541997
+Gender,97,Newtown School District,Male,123,4.493971502
+Gender,98,Norfolk School District,Female, - ,*
+Gender,98,Norfolk School District,Male, - ,*
+Gender,99,North Branford School District,Female,194,17.71689498
+Gender,99,North Branford School District,Male,152,14.1923436
+Gender,100,North Canaan School District,Female,20,11.9760479
+Gender,100,North Canaan School District,Male,21,14.58333333
+Gender,101,North Haven School District,Female,149,8.60774119
+Gender,101,North Haven School District,Male,164,8.888888889
+Gender,102,North Stonington School District,Female,35,9.433962264
+Gender,102,North Stonington School District,Male,42,10.3960396
+Gender,103,Norwalk School District,Female,549,10.17231795
+Gender,103,Norwalk School District,Male,606,10.66713607
+Gender,104,Norwich School District,Female,270,14.42307692
+Gender,104,Norwich School District,Male,311,15.58116232
+Gender,106,Old Saybrook School District,Female,120,15.05646173
+Gender,106,Old Saybrook School District,Male,83,10.90670171
+Gender,107,Orange School District,Female,26,4.024767802
+Gender,107,Orange School District,Male,26,4.12044374
+Gender,108,Oxford School District,Female,68,6.319702602
+Gender,108,Oxford School District,Male,59,5.47818013
+Gender,109,Plainfield School District,Female,124,9.927942354
+Gender,109,Plainfield School District,Male,132,10.25641026
+Gender,110,Plainville School District,Female,116,10.05199307
+Gender,110,Plainville School District,Male,118,9.424920128
+Gender,111,Plymouth School District,Female,57,7.298335467
+Gender,111,Plymouth School District,Male,87,10.01150748
+Gender,112,Pomfret School District,Female, - ,*
+Gender,112,Pomfret School District,Male, - ,*
+Gender,113,Portland School District,Female,30,4.373177843
+Gender,113,Portland School District,Male,30,4.322766571
+Gender,114,Preston School District,Female, - ,*
+Gender,114,Preston School District,Male, - ,*
+Gender,116,Putnam School District,Female,71,11.91275168
+Gender,116,Putnam School District,Male,90,13.19648094
+Gender,117,Redding School District,Female,25,4.145936982
+Gender,117,Redding School District,Male,29,4.761904762
+Gender,118,Ridgefield School District,Female,147,5.704307334
+Gender,118,Ridgefield School District,Male,132,4.773960217
+Gender,119,Rocky Hill School District,Female,81,6.333072713
+Gender,119,Rocky Hill School District,Male,99,7.734375
+Gender,121,Salem School District,Female, - ,*
+Gender,121,Salem School District,Male, - ,*
+Gender,122,Salisbury School District,Female, - ,*
+Gender,122,Salisbury School District,Male, - ,*
+Gender,123,Scotland School District,Female, - ,*
+Gender,123,Scotland School District,Male, - ,*
+Gender,124,Seymour School District,Female,79,7.003546099
+Gender,124,Seymour School District,Male,104,8.911739503
+Gender,125,Sharon School District,Female, - ,*
+Gender,125,Sharon School District,Male, - ,*
+Gender,126,Shelton School District,Female,222,8.699059561
+Gender,126,Shelton School District,Male,172,6.398809524
+Gender,127,Sherman School District,Female,20,10.47120419
+Gender,127,Sherman School District,Male,25,12.13592233
+Gender,128,Simsbury School District,Female,111,4.997748762
+Gender,128,Simsbury School District,Male,111,4.52876377
+Gender,129,Somers School District,Female,84,10.592686
+Gender,129,Somers School District,Male,116,14.26814268
+Gender,131,Southington School District,Female,218,6.568243447
+Gender,131,Southington School District,Male,241,7.075748679
+Gender,132,South Windsor School District,Female,297,14.32015429
+Gender,132,South Windsor School District,Male,306,13.18965517
+Gender,133,Sprague School District,Female, - ,*
+Gender,133,Sprague School District,Male,21,10.88082902
+Gender,134,Stafford School District,Female,70,7.717750827
+Gender,134,Stafford School District,Male,75,8.361204013
+Gender,135,Stamford School District,Female,753,9.972189114
+Gender,135,Stamford School District,Male,817,10.2022977
+Gender,136,Sterling School District,Female,20,8.368200837
+Gender,136,Sterling School District,Male,27,9.677419355
+Gender,137,Stonington School District,Female,194,17.00262927
+Gender,137,Stonington School District,Male,202,16.31663974
+Gender,138,Stratford School District,Female,407,11.39098797
+Gender,138,Stratford School District,Male,414,11.2868048
+Gender,139,Suffield School District,Female,114,9.083665339
+Gender,139,Suffield School District,Male,113,9.179528838
+Gender,140,Thomaston School District,Female,26,4.961832061
+Gender,140,Thomaston School District,Male,31,5.827067669
+Gender,141,Thompson School District,Female,67,11.33671743
+Gender,141,Thompson School District,Male,66,10.96345515
+Gender,142,Tolland School District,Female,71,4.906703525
+Gender,142,Tolland School District,Male,70,4.66045273
+Gender,143,Torrington School District,Female,272,12.93390395
+Gender,143,Torrington School District,Male,305,13.16925734
+Gender,144,Trumbull School District,Female,242,6.994219653
+Gender,144,Trumbull School District,Male,211,6.006262454
+Gender,145,Union School District,Female, - ,*
+Gender,145,Union School District,Male, - ,*
+Gender,146,Vernon School District,Female,172,10.14749263
+Gender,146,Vernon School District,Male,206,11.16531165
+Gender,147,Voluntown School District,Female, - ,*
+Gender,147,Voluntown School District,Male, - ,*
+Gender,148,Wallingford School District,Female,357,10.98461538
+Gender,148,Wallingford School District,Male,347,10.98101266
+Gender,151,Waterbury School District,Female,1450,16.65900735
+Gender,151,Waterbury School District,Male,1601,17.34185442
+Gender,152,Waterford School District,Female,91,7.103825137
+Gender,152,Waterford School District,Male,97,6.855123675
+Gender,153,Watertown School District,Female,179,11.95724783
+Gender,153,Watertown School District,Male,176,11.14629512
+Gender,154,Westbrook School District,Female,24,5.504587156
+Gender,154,Westbrook School District,Male,23,4.872881356
+Gender,155,West Hartford School District,Female,381,7.653676175
+Gender,155,West Hartford School District,Male,397,7.68932791
+Gender,156,West Haven School District,Female,381,12.84125379
+Gender,156,West Haven School District,Male,505,16.22229361
+Gender,157,Weston School District,Female,144,12.13142376
+Gender,157,Weston School District,Male,95,7.404520655
+Gender,158,Westport School District,Female,54,1.902748414
+Gender,158,Westport School District,Male,61,2.087611225
+Gender,159,Wethersfield School District,Female,107,5.934553522
+Gender,159,Wethersfield School District,Male,161,8.487084871
+Gender,160,Willington School District,Female, - ,*
+Gender,160,Willington School District,Male, - ,*
+Gender,161,Wilton School District,Female,328,15.34861956
+Gender,161,Wilton School District,Male,280,12.58992806
+Gender,162,Winchester School District,Female,36,12.16216216
+Gender,162,Winchester School District,Male,39,9.725685786
+Gender,163,Windham School District,Female,265,18.01495581
+Gender,163,Windham School District,Male,307,17.8800233
+Gender,164,Windsor School District,Female,141,8.338261384
+Gender,164,Windsor School District,Male,142,7.853982301
+Gender,165,Windsor Locks School District,Female,105,12.39669421
+Gender,165,Windsor Locks School District,Male,87,9.786276715
+Gender,166,Wolcott School District,Female,39,3
+Gender,166,Wolcott School District,Male,51,3.76940133
+Gender,167,Woodbridge School District,Female, - ,*
+Gender,167,Woodbridge School District,Male, - ,*
+Gender,169,Woodstock School District,Female,22,5.034324943
+Gender,169,Woodstock School District,Male, - ,*
+Gender,201,Regional School District 01,Female, - ,*
+Gender,201,Regional School District 01,Male, - ,*
+Gender,204,Regional School District 04,Female,48,9.467455621
+Gender,204,Regional School District 04,Male,24,5.217391304
+Gender,205,Regional School District 05,Female,133,11.39674379
+Gender,205,Regional School District 05,Male,79,6.340288925
+Gender,206,Regional School District 06,Female,24,4.597701149
+Gender,206,Regional School District 06,Male,39,7.662082515
+Gender,207,Regional School District 07,Female,104,17.90017212
+Gender,207,Regional School District 07,Male,111,20.03610108
+Gender,208,Regional School District 08,Female,126,15.08982036
+Gender,208,Regional School District 08,Male,121,13.0952381
+Gender,209,Regional School District 09,Female,80,15.35508637
+Gender,209,Regional School District 09,Male,61,12.76150628
+Gender,210,Regional School District 10,Female,117,9
+Gender,210,Regional School District 10,Male,98,6.995003569
+Gender,211,Regional School District 11,Female, - ,*
+Gender,211,Regional School District 11,Male, - ,*
+Gender,212,Regional School District 12,Female,45,10.97560976
+Gender,212,Regional School District 12,Male,43,9.090909091
+Gender,213,Regional School District 13,Female,40,4.158004158
+Gender,213,Regional School District 13,Male,49,4.752667313
+Gender,214,Regional School District 14,Female,27,2.571428571
+Gender,214,Regional School District 14,Male,36,3.805496829
+Gender,215,Regional School District 15,Female,82,4.015670911
+Gender,215,Regional School District 15,Male,88,3.983703033
+Gender,216,Regional School District 16,Female,99,7.99031477
+Gender,216,Regional School District 16,Male,84,6.818181818
+Gender,217,Regional School District 17,Female,56,4.753820034
+Gender,217,Regional School District 17,Male,52,4.304635762
+Gender,218,Regional School District 18,Female,38,5.322128852
+Gender,218,Regional School District 18,Male,29,3.856382979
+Gender,219,Regional School District 19,Female,90,14.87603306
+Gender,219,Regional School District 19,Male,78,13.08724832
+Gender,241,Capitol Region Education Council,Female,416,15.77550246
+Gender,241,Capitol Region Education Council,Male,391,14.11042945
+Gender,242,Education Connection,Female,36,90
+Gender,242,Education Connection,Male,56,82.35294118
+Gender,243,Cooperative Educational Services,Female,67,20.05988024
+Gender,243,Cooperative Educational Services,Male,91,18.12749004
+Gender,244,Area Cooperative Educational Services,Female,99,12.42158093
+Gender,244,Area Cooperative Educational Services,Male,238,20.48192771
+Gender,245,Learn,Female,124,16.7115903
+Gender,245,Learn,Male,127,16.91078562
+Gender,253,Eastern Connecticut Regional Educational Service C,Female,27,18.12080537
+Gender,253,Eastern Connecticut Regional Educational Service C,Male,28,17.39130435
+Gender,261,Jumoke Academy District,Female, - ,*
+Gender,261,Jumoke Academy District,Male, - ,*
+Gender,263,Odyssey Community School District,Female, - ,*
+Gender,263,Odyssey Community School District,Male, - ,*
+Gender,264,Integrated Day Charter School District,Female, - ,*
+Gender,264,Integrated Day Charter School District,Male, - ,*
+Gender,265,Interdistrict School for Arts and Comm District,Female, - ,*
+Gender,265,Interdistrict School for Arts and Comm District,Male, - ,*
+Gender,268,Common Ground High School District,Female, - ,*
+Gender,268,Common Ground High School District,Male, - ,*
+Gender,269,The Bridge Academy District,Female, - ,*
+Gender,269,The Bridge Academy District,Male, - ,*
+Gender,270,Side By Side Charter School District,Female, - ,*
+Gender,270,Side By Side Charter School District,Male, - ,*
+Gender,272,Explorations District,Female, - ,*
+Gender,272,Explorations District,Male, - ,*
+Gender,278,Trailblazers Academy District,Female, - ,*
+Gender,278,Trailblazers Academy District,Male, - ,*
+Gender,279,Amistad Academy District,Female, - ,*
+Gender,279,Amistad Academy District,Male, - ,*
+Gender,280,New Beginnings Inc. Family Academy District,Female, - ,*
+Gender,280,New Beginnings Inc. Family Academy District,Male, - ,*
+Gender,282,Stamford Academy,Female, - ,*
+Gender,282,Stamford Academy,Male, - ,*
+Gender,283,Park City Prep Charter School,Female, - ,*
+Gender,283,Park City Prep Charter School,Male, - ,*
+Gender,285,Bridgeport Achievement First,Female, - ,*
+Gender,285,Bridgeport Achievement First,Male, - ,*
+Gender,286,Highville Charter School District,Female, - ,*
+Gender,286,Highville Charter School District,Male, - ,*
+Gender,288,Achievement First Hartford Academy Inc.,Female, - ,*
+Gender,288,Achievement First Hartford Academy Inc.,Male,42,10.44776119
+Gender,289,Elm City College Preparatory School,Female, - ,*
+Gender,289,Elm City College Preparatory School,Male, - ,*
+Gender,336,Unified School District #1,Female, - ,*
+Gender,336,Unified School District #2,Male,310,48.0620155
+Gender,337,Department of Mental Health and Addiction Services,Female, - ,*
+Gender,337,Department of Mental Health and Addiction Services,Male, - ,*
+Gender,347,Unified School District #2,Female, - ,*
+Gender,347,Unified School District #3,Male,25,16.33986928
+Gender,900,Connecticut Technical High School System,Female,515,13.07770442
+Gender,900,Connecticut Technical High School System,Male,523,8.051108374
+Gender,901,Norwich Free Academy,Female,144,11.65048544
+Gender,901,Norwich Free Academy,Male,99,9.455587393
+Gender,902,The Gilbert School,Female,28,11.06719368
+Gender,902,The Gilbert School,Male,40,14.65201465
+Gender,903,Woodstock Academy,Female,34,5.944055944
+Gender,903,Woodstock Academy,Male,32,6.153846154
+Free / Reduced-Price Lunch,1,Andover School District,FREE, - ,*
+Free / Reduced-Price Lunch,1,Andover School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,1,Andover School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,2,Ansonia School District,FREE,241,17.97166294
+Free / Reduced-Price Lunch,2,Ansonia School District,NOT-ELIGIBLE,145,15.64185545
+Free / Reduced-Price Lunch,2,Ansonia School District,REDUCED,26,9.665427509
+Free / Reduced-Price Lunch,3,Ashford School District,FREE, - ,*
+Free / Reduced-Price Lunch,3,Ashford School District,NOT-ELIGIBLE,22,6.606606607
+Free / Reduced-Price Lunch,3,Ashford School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,4,Avon School District,FREE, - ,*
+Free / Reduced-Price Lunch,4,Avon School District,NOT-ELIGIBLE,107,3.214178432
+Free / Reduced-Price Lunch,4,Avon School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,5,Barkhamsted School District,FREE, - ,*
+Free / Reduced-Price Lunch,5,Barkhamsted School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,5,Barkhamsted School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,7,Berlin School District,FREE,57,20
+Free / Reduced-Price Lunch,7,Berlin School District,NOT-ELIGIBLE,98,3.677298311
+Free / Reduced-Price Lunch,7,Berlin School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,8,Bethany School District,FREE, - ,*
+Free / Reduced-Price Lunch,8,Bethany School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,8,Bethany School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,9,Bethel School District,FREE,57,15.48913043
+Free / Reduced-Price Lunch,9,Bethel School District,NOT-ELIGIBLE,228,9.12364946
+Free / Reduced-Price Lunch,9,Bethel School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,11,Bloomfield School District,FREE,86,10.63040791
+Free / Reduced-Price Lunch,11,Bloomfield School District,NOT-ELIGIBLE,80,7.162041182
+Free / Reduced-Price Lunch,11,Bloomfield School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,12,Bolton School District,FREE, - ,*
+Free / Reduced-Price Lunch,12,Bolton School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,12,Bolton School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,13,Bozrah School District,FREE, - ,*
+Free / Reduced-Price Lunch,13,Bozrah School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,13,Bozrah School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,14,Branford School District,FREE,68,13.12741313
+Free / Reduced-Price Lunch,14,Branford School District,NOT-ELIGIBLE,159,6.167571761
+Free / Reduced-Price Lunch,14,Branford School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,15,Bridgeport School District,FREE,4104,20.85048011
+Free / Reduced-Price Lunch,15,Bridgeport School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,15,Bridgeport School District,REDUCED,60,19.8019802
+Free / Reduced-Price Lunch,17,Bristol School District,FREE,616,22.22222222
+Free / Reduced-Price Lunch,17,Bristol School District,NOT-ELIGIBLE,288,5.818181818
+Free / Reduced-Price Lunch,17,Bristol School District,REDUCED,71,10.75757576
+Free / Reduced-Price Lunch,18,Brookfield School District,FREE, - ,*
+Free / Reduced-Price Lunch,18,Brookfield School District,NOT-ELIGIBLE,114,4.382929642
+Free / Reduced-Price Lunch,18,Brookfield School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,19,Brooklyn School District,FREE,37,17.96116505
+Free / Reduced-Price Lunch,19,Brooklyn School District,NOT-ELIGIBLE,46,6.764705882
+Free / Reduced-Price Lunch,19,Brooklyn School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,21,Canaan School District,FREE, - ,*
+Free / Reduced-Price Lunch,21,Canaan School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,22,Canterbury School District,FREE, - ,*
+Free / Reduced-Price Lunch,22,Canterbury School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,22,Canterbury School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,23,Canton School District,FREE,24,20.51282051
+Free / Reduced-Price Lunch,23,Canton School District,NOT-ELIGIBLE,53,3.324968632
+Free / Reduced-Price Lunch,23,Canton School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,24,Chaplin School District,FREE, - ,*
+Free / Reduced-Price Lunch,24,Chaplin School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,24,Chaplin School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,25,Cheshire School District,FREE,39,16.4556962
+Free / Reduced-Price Lunch,25,Cheshire School District,NOT-ELIGIBLE,252,5.601244721
+Free / Reduced-Price Lunch,25,Cheshire School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,26,Chester School District,FREE, - ,*
+Free / Reduced-Price Lunch,26,Chester School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,26,Chester School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,27,Clinton School District,FREE,46,18.18181818
+Free / Reduced-Price Lunch,27,Clinton School District,NOT-ELIGIBLE,149,8.90083632
+Free / Reduced-Price Lunch,27,Clinton School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,28,Colchester School District,FREE, - ,*
+Free / Reduced-Price Lunch,28,Colchester School District,NOT-ELIGIBLE,65,2.48470948
+Free / Reduced-Price Lunch,28,Colchester School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,29,Colebrook School District,FREE, - ,*
+Free / Reduced-Price Lunch,29,Colebrook School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,29,Colebrook School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,30,Columbia School District,FREE, - ,*
+Free / Reduced-Price Lunch,30,Columbia School District,NOT-ELIGIBLE,24,5.298013245
+Free / Reduced-Price Lunch,30,Columbia School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,31,Cornwall School District,FREE, - ,*
+Free / Reduced-Price Lunch,31,Cornwall School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,32,Coventry School District,FREE,36,15.92920354
+Free / Reduced-Price Lunch,32,Coventry School District,NOT-ELIGIBLE,101,6.702057067
+Free / Reduced-Price Lunch,32,Coventry School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,33,Cromwell School District,FREE,28,12.8440367
+Free / Reduced-Price Lunch,33,Cromwell School District,NOT-ELIGIBLE,81,4.812834225
+Free / Reduced-Price Lunch,33,Cromwell School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,34,Danbury School District,FREE,653,15.41548631
+Free / Reduced-Price Lunch,34,Danbury School District,NOT-ELIGIBLE,615,11.69646253
+Free / Reduced-Price Lunch,34,Danbury School District,REDUCED,80,7.952286282
+Free / Reduced-Price Lunch,35,Darien School District,FREE, - ,*
+Free / Reduced-Price Lunch,35,Darien School District,NOT-ELIGIBLE,167,3.469048608
+Free / Reduced-Price Lunch,35,Darien School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,36,Deep River School District,FREE, - ,*
+Free / Reduced-Price Lunch,36,Deep River School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,36,Deep River School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,37,Derby School District,FREE,135,20.42360061
+Free / Reduced-Price Lunch,37,Derby School District,NOT-ELIGIBLE,51,7.5
+Free / Reduced-Price Lunch,37,Derby School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,39,Eastford School District,FREE, - ,*
+Free / Reduced-Price Lunch,39,Eastford School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,40,East Granby School District,FREE, - ,*
+Free / Reduced-Price Lunch,40,East Granby School District,NOT-ELIGIBLE,41,5.012224939
+Free / Reduced-Price Lunch,41,East Haddam School District,FREE,22,20.37037037
+Free / Reduced-Price Lunch,41,East Haddam School District,NOT-ELIGIBLE,77,6.778169014
+Free / Reduced-Price Lunch,41,East Haddam School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,42,East Hampton School District,FREE,25,14.53488372
+Free / Reduced-Price Lunch,42,East Hampton School District,NOT-ELIGIBLE,63,3.671328671
+Free / Reduced-Price Lunch,42,East Hampton School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,43,East Hartford School District,FREE,459,10.85106383
+Free / Reduced-Price Lunch,43,East Hartford School District,NOT-ELIGIBLE,136,6.134415877
+Free / Reduced-Price Lunch,43,East Hartford School District,REDUCED,43,6.064880113
+Free / Reduced-Price Lunch,44,East Haven School District,FREE,229,21.44194757
+Free / Reduced-Price Lunch,44,East Haven School District,NOT-ELIGIBLE,219,12.27578475
+Free / Reduced-Price Lunch,44,East Haven School District,REDUCED,70,16.05504587
+Free / Reduced-Price Lunch,45,East Lyme School District,FREE,34,13.93442623
+Free / Reduced-Price Lunch,45,East Lyme School District,NOT-ELIGIBLE,122,4.605511514
+Free / Reduced-Price Lunch,45,East Lyme School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,46,Easton School District,FREE, - ,*
+Free / Reduced-Price Lunch,46,Easton School District,NOT-ELIGIBLE,43,4.130643612
+Free / Reduced-Price Lunch,46,Easton School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,47,East Windsor School District,FREE,72,20.51282051
+Free / Reduced-Price Lunch,47,East Windsor School District,NOT-ELIGIBLE,61,7.176470588
+Free / Reduced-Price Lunch,47,East Windsor School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,48,Ellington School District,FREE,28,13.65853659
+Free / Reduced-Price Lunch,48,Ellington School District,NOT-ELIGIBLE,85,3.431570448
+Free / Reduced-Price Lunch,48,Ellington School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,49,Enfield School District,FREE,336,20.94763092
+Free / Reduced-Price Lunch,49,Enfield School District,NOT-ELIGIBLE,303,8.167115903
+Free / Reduced-Price Lunch,49,Enfield School District,REDUCED,40,11.9047619
+Free / Reduced-Price Lunch,50,Essex School District,FREE, - ,*
+Free / Reduced-Price Lunch,50,Essex School District,NOT-ELIGIBLE,35,6.628787879
+Free / Reduced-Price Lunch,50,Essex School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,51,Fairfield School District,FREE,128,18.74084919
+Free / Reduced-Price Lunch,51,Fairfield School District,NOT-ELIGIBLE,575,6.117672093
+Free / Reduced-Price Lunch,51,Fairfield School District,REDUCED,21,8.076923077
+Free / Reduced-Price Lunch,52,Farmington School District,FREE,39,12.22570533
+Free / Reduced-Price Lunch,52,Farmington School District,NOT-ELIGIBLE,220,5.944339368
+Free / Reduced-Price Lunch,52,Farmington School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,53,Franklin School District,FREE, - ,*
+Free / Reduced-Price Lunch,53,Franklin School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,53,Franklin School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,54,Glastonbury School District,FREE,47,11.83879093
+Free / Reduced-Price Lunch,54,Glastonbury School District,NOT-ELIGIBLE,234,3.782123808
+Free / Reduced-Price Lunch,54,Glastonbury School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,56,Granby School District,FREE, - ,*
+Free / Reduced-Price Lunch,56,Granby School District,NOT-ELIGIBLE,65,3.272910373
+Free / Reduced-Price Lunch,56,Granby School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,57,Greenwich School District,FREE,127,13.67061356
+Free / Reduced-Price Lunch,57,Greenwich School District,NOT-ELIGIBLE,367,4.839773177
+Free / Reduced-Price Lunch,57,Greenwich School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,58,Griswold School District,FREE,95,19.03807615
+Free / Reduced-Price Lunch,58,Griswold School District,NOT-ELIGIBLE,94,7.041198502
+Free / Reduced-Price Lunch,58,Griswold School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,59,Groton School District,FREE,301,21.18226601
+Free / Reduced-Price Lunch,59,Groton School District,NOT-ELIGIBLE,340,11.2657389
+Free / Reduced-Price Lunch,59,Groton School District,REDUCED,54,11.76470588
+Free / Reduced-Price Lunch,60,Guilford School District,FREE,30,16.66666667
+Free / Reduced-Price Lunch,60,Guilford School District,NOT-ELIGIBLE,167,4.932073243
+Free / Reduced-Price Lunch,60,Guilford School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,62,Hamden School District,FREE,351,19.98861048
+Free / Reduced-Price Lunch,62,Hamden School District,NOT-ELIGIBLE,355,9.610178668
+Free / Reduced-Price Lunch,62,Hamden School District,REDUCED,54,12.91866029
+Free / Reduced-Price Lunch,63,Hampton School District,FREE, - ,*
+Free / Reduced-Price Lunch,63,Hampton School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,63,Hampton School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,64,Hartford School District,FREE,5391,29.4977019
+Free / Reduced-Price Lunch,64,Hartford School District,NOT-ELIGIBLE,158,7.636539391
+Free / Reduced-Price Lunch,64,Hartford School District,REDUCED,26,5.349794239
+Free / Reduced-Price Lunch,65,Hartland School District,FREE, - ,*
+Free / Reduced-Price Lunch,65,Hartland School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,67,Hebron School District,FREE, - ,*
+Free / Reduced-Price Lunch,67,Hebron School District,NOT-ELIGIBLE,26,2.618328298
+Free / Reduced-Price Lunch,67,Hebron School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,68,Kent School District,FREE, - ,*
+Free / Reduced-Price Lunch,68,Kent School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,68,Kent School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,69,Killingly School District,FREE,187,19.37823834
+Free / Reduced-Price Lunch,69,Killingly School District,NOT-ELIGIBLE,142,9.746053535
+Free / Reduced-Price Lunch,69,Killingly School District,REDUCED,33,14.60176991
+Free / Reduced-Price Lunch,71,Lebanon School District,FREE, - ,*
+Free / Reduced-Price Lunch,71,Lebanon School District,NOT-ELIGIBLE,82,7.407407407
+Free / Reduced-Price Lunch,71,Lebanon School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,72,Ledyard School District,FREE,30,9.375
+Free / Reduced-Price Lunch,72,Ledyard School District,NOT-ELIGIBLE,180,8.283479061
+Free / Reduced-Price Lunch,72,Ledyard School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,73,Lisbon School District,FREE, - ,*
+Free / Reduced-Price Lunch,73,Lisbon School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,73,Lisbon School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,74,Litchfield School District,FREE, - ,*
+Free / Reduced-Price Lunch,74,Litchfield School District,NOT-ELIGIBLE,53,5.348133199
+Free / Reduced-Price Lunch,74,Litchfield School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,76,Madison School District,FREE, - ,*
+Free / Reduced-Price Lunch,76,Madison School District,NOT-ELIGIBLE,140,4.223227753
+Free / Reduced-Price Lunch,76,Madison School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,77,Manchester School District,FREE,826,28.71046229
+Free / Reduced-Price Lunch,77,Manchester School District,NOT-ELIGIBLE,474,17.38173817
+Free / Reduced-Price Lunch,77,Manchester School District,REDUCED,126,18.63905325
+Free / Reduced-Price Lunch,78,Mansfield School District,FREE,25,9.124087591
+Free / Reduced-Price Lunch,78,Mansfield School District,NOT-ELIGIBLE,50,5
+Free / Reduced-Price Lunch,78,Mansfield School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,79,Marlborough School District,FREE, - ,*
+Free / Reduced-Price Lunch,79,Marlborough School District,NOT-ELIGIBLE,23,3.645007924
+Free / Reduced-Price Lunch,79,Marlborough School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,80,Meriden School District,FREE,701,15.69637259
+Free / Reduced-Price Lunch,80,Meriden School District,NOT-ELIGIBLE,182,6.09103079
+Free / Reduced-Price Lunch,80,Meriden School District,REDUCED,51,7.142857143
+Free / Reduced-Price Lunch,83,Middletown School District,FREE,282,15.77181208
+Free / Reduced-Price Lunch,83,Middletown School District,NOT-ELIGIBLE,178,6.26099191
+Free / Reduced-Price Lunch,83,Middletown School District,REDUCED,39,11.30434783
+Free / Reduced-Price Lunch,84,Milford School District,FREE,265,25.45629203
+Free / Reduced-Price Lunch,84,Milford School District,NOT-ELIGIBLE,407,7.502304147
+Free / Reduced-Price Lunch,84,Milford School District,REDUCED,50,15.19756839
+Free / Reduced-Price Lunch,85,Monroe School District,FREE,23,13.14285714
+Free / Reduced-Price Lunch,85,Monroe School District,NOT-ELIGIBLE,199,5.975975976
+Free / Reduced-Price Lunch,85,Monroe School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,86,Montville School District,FREE,70,12.41134752
+Free / Reduced-Price Lunch,86,Montville School District,NOT-ELIGIBLE,99,5.706051873
+Free / Reduced-Price Lunch,86,Montville School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,88,Naugatuck School District,FREE,323,20.36569987
+Free / Reduced-Price Lunch,88,Naugatuck School District,NOT-ELIGIBLE,191,7.776872964
+Free / Reduced-Price Lunch,88,Naugatuck School District,REDUCED,52,10.8559499
+Free / Reduced-Price Lunch,89,New Britain School District,FREE,1961,28.24834342
+Free / Reduced-Price Lunch,89,New Britain School District,NOT-ELIGIBLE,479,20.14297729
+Free / Reduced-Price Lunch,89,New Britain School District,REDUCED,110,14.03061224
+Free / Reduced-Price Lunch,90,New Canaan School District,NOT-ELIGIBLE,410,9.803921569
+Free / Reduced-Price Lunch,91,New Fairfield School District,FREE,23,12.43243243
+Free / Reduced-Price Lunch,91,New Fairfield School District,NOT-ELIGIBLE,155,5.940973553
+Free / Reduced-Price Lunch,91,New Fairfield School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,92,New Hartford School District,FREE, - ,*
+Free / Reduced-Price Lunch,92,New Hartford School District,NOT-ELIGIBLE,23,4.251386322
+Free / Reduced-Price Lunch,92,New Hartford School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,93,New Haven School District,FREE,3628,22.85498299
+Free / Reduced-Price Lunch,93,New Haven School District,NOT-ELIGIBLE,643,15.99900473
+Free / Reduced-Price Lunch,93,New Haven School District,REDUCED,97,14.39169139
+Free / Reduced-Price Lunch,94,Newington School District,FREE,51,8.585858586
+Free / Reduced-Price Lunch,94,Newington School District,NOT-ELIGIBLE,117,3.323863636
+Free / Reduced-Price Lunch,94,Newington School District,REDUCED,28,11.38211382
+Free / Reduced-Price Lunch,95,New London School District,FREE,702,25.13426423
+Free / Reduced-Price Lunch,95,New London School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,95,New London School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,96,New Milford School District,FREE,97,16.92844677
+Free / Reduced-Price Lunch,96,New Milford School District,NOT-ELIGIBLE,301,7.820213042
+Free / Reduced-Price Lunch,96,New Milford School District,REDUCED,27,10.93117409
+Free / Reduced-Price Lunch,97,Newtown School District,FREE, - ,*
+Free / Reduced-Price Lunch,97,Newtown School District,NOT-ELIGIBLE,212,4.325647827
+Free / Reduced-Price Lunch,97,Newtown School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,98,Norfolk School District,FREE, - ,*
+Free / Reduced-Price Lunch,98,Norfolk School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,98,Norfolk School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,99,North Branford School District,FREE,62,28.05429864
+Free / Reduced-Price Lunch,99,North Branford School District,NOT-ELIGIBLE,266,14.40173254
+Free / Reduced-Price Lunch,99,North Branford School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,100,North Canaan School District,FREE, - ,*
+Free / Reduced-Price Lunch,100,North Canaan School District,NOT-ELIGIBLE,24,10.52631579
+Free / Reduced-Price Lunch,100,North Canaan School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,101,North Haven School District,FREE,43,15.19434629
+Free / Reduced-Price Lunch,101,North Haven School District,NOT-ELIGIBLE,252,7.997461123
+Free / Reduced-Price Lunch,101,North Haven School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,102,North Stonington School District,FREE,21,24.13793103
+Free / Reduced-Price Lunch,102,North Stonington School District,NOT-ELIGIBLE,55,8.3081571
+Free / Reduced-Price Lunch,102,North Stonington School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,103,Norwalk School District,FREE,563,13.73170732
+Free / Reduced-Price Lunch,103,Norwalk School District,NOT-ELIGIBLE,511,8.37018837
+Free / Reduced-Price Lunch,103,Norwalk School District,REDUCED,80,9.174311927
+Free / Reduced-Price Lunch,104,Norwich School District,FREE,449,18.99323181
+Free / Reduced-Price Lunch,104,Norwich School District,NOT-ELIGIBLE,82,7.869481766
+Free / Reduced-Price Lunch,104,Norwich School District,REDUCED,50,10.82251082
+Free / Reduced-Price Lunch,106,Old Saybrook School District,FREE,40,22.34636872
+Free / Reduced-Price Lunch,106,Old Saybrook School District,NOT-ELIGIBLE,155,11.68048229
+Free / Reduced-Price Lunch,106,Old Saybrook School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,107,Orange School District,FREE, - ,*
+Free / Reduced-Price Lunch,107,Orange School District,NOT-ELIGIBLE,45,3.670473083
+Free / Reduced-Price Lunch,107,Orange School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,108,Oxford School District,FREE,28,22.58064516
+Free / Reduced-Price Lunch,108,Oxford School District,NOT-ELIGIBLE,91,4.577464789
+Free / Reduced-Price Lunch,108,Oxford School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,109,Plainfield School District,FREE,131,14.81900452
+Free / Reduced-Price Lunch,109,Plainfield School District,NOT-ELIGIBLE,100,6.76132522
+Free / Reduced-Price Lunch,109,Plainfield School District,REDUCED,25,14.36781609
+Free / Reduced-Price Lunch,110,Plainville School District,FREE,77,16.04166667
+Free / Reduced-Price Lunch,110,Plainville School District,NOT-ELIGIBLE,139,7.924743444
+Free / Reduced-Price Lunch,110,Plainville School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,111,Plymouth School District,FREE,67,17.35751295
+Free / Reduced-Price Lunch,111,Plymouth School District,NOT-ELIGIBLE,70,6.024096386
+Free / Reduced-Price Lunch,111,Plymouth School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,112,Pomfret School District,FREE, - ,*
+Free / Reduced-Price Lunch,112,Pomfret School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,112,Pomfret School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,113,Portland School District,FREE,27,14.51612903
+Free / Reduced-Price Lunch,113,Portland School District,NOT-ELIGIBLE,29,2.515177797
+Free / Reduced-Price Lunch,113,Portland School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,114,Preston School District,FREE, - ,*
+Free / Reduced-Price Lunch,114,Preston School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,114,Preston School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,116,Putnam School District,FREE,96,14.74654378
+Free / Reduced-Price Lunch,116,Putnam School District,NOT-ELIGIBLE,51,9.409594096
+Free / Reduced-Price Lunch,116,Putnam School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,117,Redding School District,FREE, - ,*
+Free / Reduced-Price Lunch,117,Redding School District,NOT-ELIGIBLE,50,4.244482173
+Free / Reduced-Price Lunch,117,Redding School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,118,Ridgefield School District,FREE, - ,*
+Free / Reduced-Price Lunch,118,Ridgefield School District,NOT-ELIGIBLE,261,5.017301038
+Free / Reduced-Price Lunch,118,Ridgefield School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,119,Rocky Hill School District,FREE,40,16.73640167
+Free / Reduced-Price Lunch,119,Rocky Hill School District,NOT-ELIGIBLE,129,5.74610245
+Free / Reduced-Price Lunch,119,Rocky Hill School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,121,Salem School District,FREE, - ,*
+Free / Reduced-Price Lunch,121,Salem School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,121,Salem School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,122,Salisbury School District,FREE, - ,*
+Free / Reduced-Price Lunch,122,Salisbury School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,122,Salisbury School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,123,Scotland School District,FREE, - ,*
+Free / Reduced-Price Lunch,123,Scotland School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,123,Scotland School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,124,Seymour School District,FREE,66,15.20737327
+Free / Reduced-Price Lunch,124,Seymour School District,NOT-ELIGIBLE,98,5.81257414
+Free / Reduced-Price Lunch,124,Seymour School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,125,Sharon School District,FREE, - ,*
+Free / Reduced-Price Lunch,125,Sharon School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,125,Sharon School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,126,Shelton School District,FREE,129,18.14345992
+Free / Reduced-Price Lunch,126,Shelton School District,NOT-ELIGIBLE,242,5.666120347
+Free / Reduced-Price Lunch,126,Shelton School District,REDUCED,23,8.914728682
+Free / Reduced-Price Lunch,127,Sherman School District,FREE, - ,*
+Free / Reduced-Price Lunch,127,Sherman School District,NOT-ELIGIBLE,38,10.32608696
+Free / Reduced-Price Lunch,128,Simsbury School District,FREE,26,9.420289855
+Free / Reduced-Price Lunch,128,Simsbury School District,NOT-ELIGIBLE,190,4.394079556
+Free / Reduced-Price Lunch,128,Simsbury School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,129,Somers School District,FREE, - ,*
+Free / Reduced-Price Lunch,129,Somers School District,NOT-ELIGIBLE,172,11.33816744
+Free / Reduced-Price Lunch,129,Somers School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,131,Southington School District,FREE,164,22.90502793
+Free / Reduced-Price Lunch,131,Southington School District,NOT-ELIGIBLE,275,4.721840659
+Free / Reduced-Price Lunch,131,Southington School District,REDUCED,20,10.81081081
+Free / Reduced-Price Lunch,132,South Windsor School District,FREE,105,30.43478261
+Free / Reduced-Price Lunch,132,South Windsor School District,NOT-ELIGIBLE,486,12.35069886
+Free / Reduced-Price Lunch,132,South Windsor School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,133,Sprague School District,FREE, - ,*
+Free / Reduced-Price Lunch,133,Sprague School District,NOT-ELIGIBLE,20,9.433962264
+Free / Reduced-Price Lunch,133,Sprague School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,134,Stafford School District,FREE,72,17.22488038
+Free / Reduced-Price Lunch,134,Stafford School District,NOT-ELIGIBLE,58,4.647435897
+Free / Reduced-Price Lunch,134,Stafford School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,135,Stamford School District,FREE,766,12.80080214
+Free / Reduced-Price Lunch,135,Stamford School District,NOT-ELIGIBLE,721,8.596637654
+Free / Reduced-Price Lunch,135,Stamford School District,REDUCED,83,6.986531987
+Free / Reduced-Price Lunch,136,Sterling School District,FREE,26,18.18181818
+Free / Reduced-Price Lunch,136,Sterling School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,136,Sterling School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,137,Stonington School District,FREE,91,25.85227273
+Free / Reduced-Price Lunch,137,Stonington School District,NOT-ELIGIBLE,285,14.7515528
+Free / Reduced-Price Lunch,137,Stonington School District,REDUCED,20,21.05263158
+Free / Reduced-Price Lunch,138,Stratford School District,FREE,341,16.23809524
+Free / Reduced-Price Lunch,138,Stratford School District,NOT-ELIGIBLE,396,9.335219236
+Free / Reduced-Price Lunch,138,Stratford School District,REDUCED,84,9.343715239
+Free / Reduced-Price Lunch,139,Suffield School District,FREE,31,19.87179487
+Free / Reduced-Price Lunch,139,Suffield School District,NOT-ELIGIBLE,179,7.976827094
+Free / Reduced-Price Lunch,139,Suffield School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,140,Thomaston School District,FREE, - ,*
+Free / Reduced-Price Lunch,140,Thomaston School District,NOT-ELIGIBLE,39,4.357541899
+Free / Reduced-Price Lunch,140,Thomaston School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,141,Thompson School District,FREE,26,9.961685824
+Free / Reduced-Price Lunch,141,Thompson School District,NOT-ELIGIBLE,100,11.93317422
+Free / Reduced-Price Lunch,141,Thompson School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,142,Tolland School District,FREE,20,16
+Free / Reduced-Price Lunch,142,Tolland School District,NOT-ELIGIBLE,119,4.277498203
+Free / Reduced-Price Lunch,142,Tolland School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,143,Torrington School District,FREE,338,20.1911589
+Free / Reduced-Price Lunch,143,Torrington School District,NOT-ELIGIBLE,206,8.512396694
+Free / Reduced-Price Lunch,143,Torrington School District,REDUCED,33,10.15384615
+Free / Reduced-Price Lunch,144,Trumbull School District,FREE,44,16
+Free / Reduced-Price Lunch,144,Trumbull School District,NOT-ELIGIBLE,398,6.089351285
+Free / Reduced-Price Lunch,144,Trumbull School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,145,Union School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,145,Union School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,146,Vernon School District,FREE,233,19.08271908
+Free / Reduced-Price Lunch,146,Vernon School District,NOT-ELIGIBLE,115,5.465779468
+Free / Reduced-Price Lunch,146,Vernon School District,REDUCED,29,13.55140187
+Free / Reduced-Price Lunch,147,Voluntown School District,FREE, - ,*
+Free / Reduced-Price Lunch,147,Voluntown School District,NOT-ELIGIBLE,20,8
+Free / Reduced-Price Lunch,147,Voluntown School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,148,Wallingford School District,FREE,158,22.96511628
+Free / Reduced-Price Lunch,148,Wallingford School District,NOT-ELIGIBLE,524,9.397417504
+Free / Reduced-Price Lunch,148,Wallingford School District,REDUCED,22,15.06849315
+Free / Reduced-Price Lunch,151,Waterbury School District,FREE,2601,19.96469143
+Free / Reduced-Price Lunch,151,Waterbury School District,NOT-ELIGIBLE,326,9.005524862
+Free / Reduced-Price Lunch,151,Waterbury School District,REDUCED,124,9.627329193
+Free / Reduced-Price Lunch,152,Waterford School District,FREE,45,15.57093426
+Free / Reduced-Price Lunch,152,Waterford School District,NOT-ELIGIBLE,127,5.51694179
+Free / Reduced-Price Lunch,152,Waterford School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,153,Watertown School District,FREE,89,20.60185185
+Free / Reduced-Price Lunch,153,Watertown School District,NOT-ELIGIBLE,239,9.672197491
+Free / Reduced-Price Lunch,153,Watertown School District,REDUCED,27,15.60693642
+Free / Reduced-Price Lunch,154,Westbrook School District,FREE, - ,*
+Free / Reduced-Price Lunch,154,Westbrook School District,NOT-ELIGIBLE,33,4.17193426
+Free / Reduced-Price Lunch,154,Westbrook School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,155,West Hartford School District,FREE,251,15.9567705
+Free / Reduced-Price Lunch,155,West Hartford School District,NOT-ELIGIBLE,494,6.039858173
+Free / Reduced-Price Lunch,155,West Hartford School District,REDUCED,33,8.505154639
+Free / Reduced-Price Lunch,156,West Haven School District,FREE,525,17.10654936
+Free / Reduced-Price Lunch,156,West Haven School District,NOT-ELIGIBLE,293,12.14759536
+Free / Reduced-Price Lunch,156,West Haven School District,REDUCED,68,11.35225376
+Free / Reduced-Price Lunch,157,Weston School District,FREE, - ,*
+Free / Reduced-Price Lunch,157,Weston School District,NOT-ELIGIBLE,235,9.694719472
+Free / Reduced-Price Lunch,157,Weston School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,158,Westport School District,FREE, - ,*
+Free / Reduced-Price Lunch,158,Westport School District,NOT-ELIGIBLE,99,1.776422035
+Free / Reduced-Price Lunch,158,Westport School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,159,Wethersfield School District,FREE,79,16.80851064
+Free / Reduced-Price Lunch,159,Wethersfield School District,NOT-ELIGIBLE,176,5.779967159
+Free / Reduced-Price Lunch,159,Wethersfield School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,160,Willington School District,FREE, - ,*
+Free / Reduced-Price Lunch,160,Willington School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,160,Willington School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,161,Wilton School District,FREE, - ,*
+Free / Reduced-Price Lunch,161,Wilton School District,NOT-ELIGIBLE,592,13.82854473
+Free / Reduced-Price Lunch,161,Wilton School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,162,Winchester School District,FREE,39,13.87900356
+Free / Reduced-Price Lunch,162,Winchester School District,NOT-ELIGIBLE,22,6.376811594
+Free / Reduced-Price Lunch,162,Winchester School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,163,Windham School District,FREE,474,21.10418522
+Free / Reduced-Price Lunch,163,Windham School District,NOT-ELIGIBLE,74,10.97922849
+Free / Reduced-Price Lunch,163,Windham School District,REDUCED,24,8.955223881
+Free / Reduced-Price Lunch,164,Windsor School District,FREE,110,13.43101343
+Free / Reduced-Price Lunch,164,Windsor School District,NOT-ELIGIBLE,155,6.399669694
+Free / Reduced-Price Lunch,164,Windsor School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,165,Windsor Locks School District,FREE,98,21.68141593
+Free / Reduced-Price Lunch,165,Windsor Locks School District,NOT-ELIGIBLE,83,7.118353345
+Free / Reduced-Price Lunch,165,Windsor Locks School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,166,Wolcott School District,FREE,33,8.967391304
+Free / Reduced-Price Lunch,166,Wolcott School District,NOT-ELIGIBLE,48,2.281368821
+Free / Reduced-Price Lunch,166,Wolcott School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,167,Woodbridge School District,FREE, - ,*
+Free / Reduced-Price Lunch,167,Woodbridge School District,NOT-ELIGIBLE,25,3.541076487
+Free / Reduced-Price Lunch,167,Woodbridge School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,169,Woodstock School District,FREE, - ,*
+Free / Reduced-Price Lunch,169,Woodstock School District,NOT-ELIGIBLE,34,4.353393086
+Free / Reduced-Price Lunch,169,Woodstock School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,201,Regional School District 01,FREE, - ,*
+Free / Reduced-Price Lunch,201,Regional School District 01,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,201,Regional School District 01,REDUCED, - ,*
+Free / Reduced-Price Lunch,204,Regional School District 04,FREE, - ,*
+Free / Reduced-Price Lunch,204,Regional School District 04,NOT-ELIGIBLE,52,5.949656751
+Free / Reduced-Price Lunch,204,Regional School District 04,REDUCED, - ,*
+Free / Reduced-Price Lunch,205,Regional School District 05,FREE, - ,*
+Free / Reduced-Price Lunch,205,Regional School District 05,NOT-ELIGIBLE,200,8.650519031
+Free / Reduced-Price Lunch,205,Regional School District 05,REDUCED, - ,*
+Free / Reduced-Price Lunch,206,Regional School District 06,FREE, - ,*
+Free / Reduced-Price Lunch,206,Regional School District 06,NOT-ELIGIBLE,50,5.605381166
+Free / Reduced-Price Lunch,206,Regional School District 06,REDUCED, - ,*
+Free / Reduced-Price Lunch,207,Regional School District 07,FREE, - ,*
+Free / Reduced-Price Lunch,207,Regional School District 07,NOT-ELIGIBLE,190,18.23416507
+Free / Reduced-Price Lunch,207,Regional School District 07,REDUCED, - ,*
+Free / Reduced-Price Lunch,208,Regional School District 08,FREE, - ,*
+Free / Reduced-Price Lunch,208,Regional School District 08,NOT-ELIGIBLE,227,13.51995235
+Free / Reduced-Price Lunch,208,Regional School District 08,REDUCED, - ,*
+Free / Reduced-Price Lunch,209,Regional School District 09,FREE, - ,*
+Free / Reduced-Price Lunch,209,Regional School District 09,NOT-ELIGIBLE,131,13.53305785
+Free / Reduced-Price Lunch,209,Regional School District 09,REDUCED, - ,*
+Free / Reduced-Price Lunch,210,Regional School District 10,FREE,21,16.53543307
+Free / Reduced-Price Lunch,210,Regional School District 10,NOT-ELIGIBLE,193,7.589461266
+Free / Reduced-Price Lunch,210,Regional School District 10,REDUCED, - ,*
+Free / Reduced-Price Lunch,211,Regional School District 11,FREE, - ,*
+Free / Reduced-Price Lunch,211,Regional School District 11,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,211,Regional School District 11,REDUCED, - ,*
+Free / Reduced-Price Lunch,212,Regional School District 12,FREE, - ,*
+Free / Reduced-Price Lunch,212,Regional School District 12,NOT-ELIGIBLE,73,8.816425121
+Free / Reduced-Price Lunch,212,Regional School District 12,REDUCED, - ,*
+Free / Reduced-Price Lunch,213,Regional School District 13,FREE, - ,*
+Free / Reduced-Price Lunch,213,Regional School District 13,NOT-ELIGIBLE,77,4.124263524
+Free / Reduced-Price Lunch,213,Regional School District 13,REDUCED, - ,*
+Free / Reduced-Price Lunch,214,Regional School District 14,FREE, - ,*
+Free / Reduced-Price Lunch,214,Regional School District 14,NOT-ELIGIBLE,53,2.828175027
+Free / Reduced-Price Lunch,214,Regional School District 14,REDUCED, - ,*
+Free / Reduced-Price Lunch,215,Regional School District 15,FREE, - ,*
+Free / Reduced-Price Lunch,215,Regional School District 15,NOT-ELIGIBLE,150,3.735990037
+Free / Reduced-Price Lunch,215,Regional School District 15,REDUCED, - ,*
+Free / Reduced-Price Lunch,216,Regional School District 16,FREE,36,15.65217391
+Free / Reduced-Price Lunch,216,Regional School District 16,NOT-ELIGIBLE,137,6.39589169
+Free / Reduced-Price Lunch,216,Regional School District 16,REDUCED, - ,*
+Free / Reduced-Price Lunch,217,Regional School District 17,FREE, - ,*
+Free / Reduced-Price Lunch,217,Regional School District 17,NOT-ELIGIBLE,95,4.250559284
+Free / Reduced-Price Lunch,217,Regional School District 17,REDUCED, - ,*
+Free / Reduced-Price Lunch,218,Regional School District 18,FREE, - ,*
+Free / Reduced-Price Lunch,218,Regional School District 18,NOT-ELIGIBLE,53,3.851744186
+Free / Reduced-Price Lunch,218,Regional School District 18,REDUCED, - ,*
+Free / Reduced-Price Lunch,219,Regional School District 19,FREE,41,32.53968254
+Free / Reduced-Price Lunch,219,Regional School District 19,NOT-ELIGIBLE,123,11.96498054
+Free / Reduced-Price Lunch,219,Regional School District 19,REDUCED, - ,*
+Free / Reduced-Price Lunch,241,Capitol Region Education Council,FREE,425,22.9978355
+Free / Reduced-Price Lunch,241,Capitol Region Education Council,NOT-ELIGIBLE,328,10.77175698
+Free / Reduced-Price Lunch,241,Capitol Region Education Council,REDUCED,54,10.48543689
+Free / Reduced-Price Lunch,242,Education Connection,FREE,80,93.02325581
+Free / Reduced-Price Lunch,242,Education Connection,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,242,Education Connection,REDUCED, - ,*
+Free / Reduced-Price Lunch,243,Cooperative Educational Services,FREE,44,23.15789474
+Free / Reduced-Price Lunch,243,Cooperative Educational Services,NOT-ELIGIBLE,91,16.60583942
+Free / Reduced-Price Lunch,243,Cooperative Educational Services,REDUCED,23,23.46938776
+Free / Reduced-Price Lunch,244,Area Cooperative Educational Services,FREE,221,24.20591457
+Free / Reduced-Price Lunch,244,Area Cooperative Educational Services,NOT-ELIGIBLE,94,10.57367829
+Free / Reduced-Price Lunch,244,Area Cooperative Educational Services,REDUCED,22,14.01273885
+Free / Reduced-Price Lunch,245,Learn,FREE,150,24.79338843
+Free / Reduced-Price Lunch,245,Learn,NOT-ELIGIBLE,84,10.96605744
+Free / Reduced-Price Lunch,245,Learn,REDUCED, - ,*
+Free / Reduced-Price Lunch,253,Eastern Connecticut Regional Educational Service,FREE, - ,*
+Free / Reduced-Price Lunch,253,Eastern Connecticut Regional Educational Service,NOT-ELIGIBLE,34,16.19047619
+Free / Reduced-Price Lunch,253,Eastern Connecticut Regional Educational Service,REDUCED, - ,*
+Free / Reduced-Price Lunch,261,Jumoke Academy District,FREE, - ,*
+Free / Reduced-Price Lunch,261,Jumoke Academy District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,261,Jumoke Academy District,REDUCED, - ,*
+Free / Reduced-Price Lunch,263,Odyssey Community School District,FREE, - ,*
+Free / Reduced-Price Lunch,263,Odyssey Community School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,263,Odyssey Community School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,264,Integrated Day Charter School District,FREE, - ,*
+Free / Reduced-Price Lunch,264,Integrated Day Charter School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,264,Integrated Day Charter School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,265,Interdistrict School for Arts and Comm District,FREE, - ,*
+Free / Reduced-Price Lunch,265,Interdistrict School for Arts and Comm District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,265,Interdistrict School for Arts and Comm District,REDUCED, - ,*
+Free / Reduced-Price Lunch,268,Common Ground High School District,FREE, - ,*
+Free / Reduced-Price Lunch,268,Common Ground High School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,268,Common Ground High School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,269,The Bridge Academy District,FREE, - ,*
+Free / Reduced-Price Lunch,269,The Bridge Academy District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,269,The Bridge Academy District,REDUCED, - ,*
+Free / Reduced-Price Lunch,270,Side By Side Charter School District,FREE, - ,*
+Free / Reduced-Price Lunch,270,Side By Side Charter School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,270,Side By Side Charter School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,272,Explorations District,FREE, - ,*
+Free / Reduced-Price Lunch,272,Explorations District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,278,Trailblazers Academy District,FREE, - ,*
+Free / Reduced-Price Lunch,278,Trailblazers Academy District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,278,Trailblazers Academy District,REDUCED, - ,*
+Free / Reduced-Price Lunch,279,Amistad Academy District,FREE, - ,*
+Free / Reduced-Price Lunch,279,Amistad Academy District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,279,Amistad Academy District,REDUCED, - ,*
+Free / Reduced-Price Lunch,280,New Beginnings Inc. Family Academy District,FREE,26,10.52631579
+Free / Reduced-Price Lunch,280,New Beginnings Inc. Family Academy District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,280,New Beginnings Inc. Family Academy District,REDUCED, - ,*
+Free / Reduced-Price Lunch,282,Stamford Academy,FREE, - ,*
+Free / Reduced-Price Lunch,282,Stamford Academy,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,282,Stamford Academy,REDUCED, - ,*
+Free / Reduced-Price Lunch,283,Park City Prep Charter School,FREE, - ,*
+Free / Reduced-Price Lunch,283,Park City Prep Charter School,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,283,Park City Prep Charter School,REDUCED, - ,*
+Free / Reduced-Price Lunch,285,Bridgeport Achievement First,FREE, - ,*
+Free / Reduced-Price Lunch,285,Bridgeport Achievement First,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,285,Bridgeport Achievement First,REDUCED, - ,*
+Free / Reduced-Price Lunch,286,Highville Charter School District,FREE, - ,*
+Free / Reduced-Price Lunch,286,Highville Charter School District,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,286,Highville Charter School District,REDUCED, - ,*
+Free / Reduced-Price Lunch,288,Achievement First Hartford Academy Inc.,FREE,60,8.075370121
+Free / Reduced-Price Lunch,289,Elm City College Preparatory School,FREE, - ,*
+Free / Reduced-Price Lunch,289,Elm City College Preparatory School,NOT-ELIGIBLE, - ,*
+Free / Reduced-Price Lunch,289,Elm City College Preparatory School,REDUCED, - ,*
+Free / Reduced-Price Lunch,336,Unified School District #1,FREE,312,45.61403509
+Free / Reduced-Price Lunch,337,Department of Mental Health and Addiction Services,FREE, - ,*
+Free / Reduced-Price Lunch,347,Unified School District #2,FREE,41,22.16216216
+Free / Reduced-Price Lunch,900,Connecticut Technical High School System,FREE,594,14.38953488
+Free / Reduced-Price Lunch,900,Connecticut Technical High School System,NOT-ELIGIBLE,356,6.640552136
+Free / Reduced-Price Lunch,900,Connecticut Technical High School System,REDUCED,88,9.312169312
+Free / Reduced-Price Lunch,901,Norwich Free Academy,FREE,86,17.73195876
+Free / Reduced-Price Lunch,901,Norwich Free Academy,NOT-ELIGIBLE,153,8.818443804
+Free / Reduced-Price Lunch,901,Norwich Free Academy,REDUCED, - ,*
+Free / Reduced-Price Lunch,902,The Gilbert School,FREE,38,23.31288344
+Free / Reduced-Price Lunch,902,The Gilbert School,NOT-ELIGIBLE,26,8.201892744
+Free / Reduced-Price Lunch,902,The Gilbert School,REDUCED, - ,*
+Free / Reduced-Price Lunch,903,Woodstock Academy,FREE, - ,*
+Free / Reduced-Price Lunch,903,Woodstock Academy,NOT-ELIGIBLE,56,5.308056872
+Free / Reduced-Price Lunch,903,Woodstock Academy,REDUCED, - ,*
+Race / Ethnicity,1,Andover School District,Asian, - ,*
+Race / Ethnicity,1,Andover School District,Black or African American, - ,*
+Race / Ethnicity,1,Andover School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,1,Andover School District,Two or More Races, - ,*
+Race / Ethnicity,1,Andover School District,White, - ,*
+Race / Ethnicity,2,Ansonia School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,2,Ansonia School District,Asian, - ,*
+Race / Ethnicity,2,Ansonia School District,Black or African American,108,20.11173184
+Race / Ethnicity,2,Ansonia School District,Hispanic/Latino of any race,127,19.01197605
+Race / Ethnicity,2,Ansonia School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,2,Ansonia School District,Two or More Races, - ,*
+Race / Ethnicity,2,Ansonia School District,White,163,13.01916933
+Race / Ethnicity,3,Ashford School District,Asian, - ,*
+Race / Ethnicity,3,Ashford School District,Black or African American, - ,*
+Race / Ethnicity,3,Ashford School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,3,Ashford School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,3,Ashford School District,Two or More Races, - ,*
+Race / Ethnicity,3,Ashford School District,White,35,8.536585366
+Race / Ethnicity,4,Avon School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,4,Avon School District,Asian, - ,*
+Race / Ethnicity,4,Avon School District,Black or African American, - ,*
+Race / Ethnicity,4,Avon School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,4,Avon School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,4,Avon School District,Two or More Races, - ,*
+Race / Ethnicity,4,Avon School District,White,95,3.381986472
+Race / Ethnicity,5,Barkhamsted School District,Asian, - ,*
+Race / Ethnicity,5,Barkhamsted School District,Black or African American, - ,*
+Race / Ethnicity,5,Barkhamsted School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,5,Barkhamsted School District,Two or More Races, - ,*
+Race / Ethnicity,5,Barkhamsted School District,White, - ,*
+Race / Ethnicity,7,Berlin School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,7,Berlin School District,Asian, - ,*
+Race / Ethnicity,7,Berlin School District,Black or African American, - ,*
+Race / Ethnicity,7,Berlin School District,Hispanic/Latino of any race,21,9.813084112
+Race / Ethnicity,7,Berlin School District,Two or More Races, - ,*
+Race / Ethnicity,7,Berlin School District,White,118,4.587869362
+Race / Ethnicity,8,Bethany School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,8,Bethany School District,Asian, - ,*
+Race / Ethnicity,8,Bethany School District,Black or African American, - ,*
+Race / Ethnicity,8,Bethany School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,8,Bethany School District,Two or More Races, - ,*
+Race / Ethnicity,8,Bethany School District,White, - ,*
+Race / Ethnicity,9,Bethel School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,9,Bethel School District,Asian,24,12.37113402
+Race / Ethnicity,9,Bethel School District,Black or African American, - ,*
+Race / Ethnicity,9,Bethel School District,Hispanic/Latino of any race,38,9.895833333
+Race / Ethnicity,9,Bethel School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,9,Bethel School District,Two or More Races, - ,*
+Race / Ethnicity,9,Bethel School District,White,220,9.573542211
+Race / Ethnicity,11,Bloomfield School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,11,Bloomfield School District,Asian, - ,*
+Race / Ethnicity,11,Bloomfield School District,Black or African American,109,6.803995006
+Race / Ethnicity,11,Bloomfield School District,Hispanic/Latino of any race,26,13.13131313
+Race / Ethnicity,11,Bloomfield School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,11,Bloomfield School District,Two or More Races, - ,*
+Race / Ethnicity,11,Bloomfield School District,White,33,16.66666667
+Race / Ethnicity,12,Bolton School District,Asian, - ,*
+Race / Ethnicity,12,Bolton School District,Black or African American, - ,*
+Race / Ethnicity,12,Bolton School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,12,Bolton School District,Two or More Races, - ,*
+Race / Ethnicity,12,Bolton School District,White, - ,*
+Race / Ethnicity,13,Bozrah School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,13,Bozrah School District,Asian, - ,*
+Race / Ethnicity,13,Bozrah School District,Black or African American, - ,*
+Race / Ethnicity,13,Bozrah School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,13,Bozrah School District,White, - ,*
+Race / Ethnicity,14,Branford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,14,Branford School District,Asian, - ,*
+Race / Ethnicity,14,Branford School District,Black or African American, - ,*
+Race / Ethnicity,14,Branford School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,14,Branford School District,Two or More Races, - ,*
+Race / Ethnicity,14,Branford School District,White,196,7.460982109
+Race / Ethnicity,15,Bridgeport School District,American Indian or Alaska Native,40,24.24242424
+Race / Ethnicity,15,Bridgeport School District,Asian,64,10.86587436
+Race / Ethnicity,15,Bridgeport School District,Black or African American,1526,19.31156669
+Race / Ethnicity,15,Bridgeport School District,Hispanic/Latino of any race,2244,23.00123001
+Race / Ethnicity,15,Bridgeport School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,15,Bridgeport School District,Two or More Races, - ,*
+Race / Ethnicity,15,Bridgeport School District,White,294,17.43772242
+Race / Ethnicity,17,Bristol School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,17,Bristol School District,Asian, - ,*
+Race / Ethnicity,17,Bristol School District,Black or African American,87,16.63479924
+Race / Ethnicity,17,Bristol School District,Hispanic/Latino of any race,337,21.22166247
+Race / Ethnicity,17,Bristol School District,Two or More Races,24,11.37440758
+Race / Ethnicity,17,Bristol School District,White,508,8.754092711
+Race / Ethnicity,18,Brookfield School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,18,Brookfield School District,Asian, - ,*
+Race / Ethnicity,18,Brookfield School District,Black or African American, - ,*
+Race / Ethnicity,18,Brookfield School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,18,Brookfield School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,18,Brookfield School District,Two or More Races, - ,*
+Race / Ethnicity,18,Brookfield School District,White,108,4.383116883
+Race / Ethnicity,19,Brooklyn School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,19,Brooklyn School District,Asian, - ,*
+Race / Ethnicity,19,Brooklyn School District,Black or African American, - ,*
+Race / Ethnicity,19,Brooklyn School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,19,Brooklyn School District,Two or More Races, - ,*
+Race / Ethnicity,19,Brooklyn School District,White,71,8.513189448
+Race / Ethnicity,21,Canaan School District,Black or African American, - ,*
+Race / Ethnicity,21,Canaan School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,21,Canaan School District,Two or More Races, - ,*
+Race / Ethnicity,21,Canaan School District,White, - ,*
+Race / Ethnicity,22,Canterbury School District,Asian, - ,*
+Race / Ethnicity,22,Canterbury School District,Black or African American, - ,*
+Race / Ethnicity,22,Canterbury School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,22,Canterbury School District,Two or More Races, - ,*
+Race / Ethnicity,22,Canterbury School District,White, - ,*
+Race / Ethnicity,23,Canton School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,23,Canton School District,Asian, - ,*
+Race / Ethnicity,23,Canton School District,Black or African American, - ,*
+Race / Ethnicity,23,Canton School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,23,Canton School District,Two or More Races, - ,*
+Race / Ethnicity,23,Canton School District,White,54,3.481624758
+Race / Ethnicity,24,Chaplin School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,24,Chaplin School District,Asian, - ,*
+Race / Ethnicity,24,Chaplin School District,Black or African American, - ,*
+Race / Ethnicity,24,Chaplin School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,24,Chaplin School District,Two or More Races, - ,*
+Race / Ethnicity,24,Chaplin School District,White, - ,*
+Race / Ethnicity,25,Cheshire School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,25,Cheshire School District,Asian,21,4.827586207
+Race / Ethnicity,25,Cheshire School District,Black or African American, - ,*
+Race / Ethnicity,25,Cheshire School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,25,Cheshire School District,Two or More Races, - ,*
+Race / Ethnicity,25,Cheshire School District,White,252,6.153846154
+Race / Ethnicity,26,Chester School District,Asian, - ,*
+Race / Ethnicity,26,Chester School District,Black or African American, - ,*
+Race / Ethnicity,26,Chester School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,26,Chester School District,Two or More Races, - ,*
+Race / Ethnicity,26,Chester School District,White, - ,*
+Race / Ethnicity,27,Clinton School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,27,Clinton School District,Asian, - ,*
+Race / Ethnicity,27,Clinton School District,Black or African American, - ,*
+Race / Ethnicity,27,Clinton School District,Hispanic/Latino of any race,27,16.36363636
+Race / Ethnicity,27,Clinton School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,27,Clinton School District,Two or More Races, - ,*
+Race / Ethnicity,27,Clinton School District,White,169,9.768786127
+Race / Ethnicity,28,Colchester School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,28,Colchester School District,Asian, - ,*
+Race / Ethnicity,28,Colchester School District,Black or African American, - ,*
+Race / Ethnicity,28,Colchester School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,28,Colchester School District,Two or More Races, - ,*
+Race / Ethnicity,28,Colchester School District,White,65,2.458396369
+Race / Ethnicity,29,Colebrook School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,29,Colebrook School District,Two or More Races, - ,*
+Race / Ethnicity,29,Colebrook School District,White, - ,*
+Race / Ethnicity,30,Columbia School District,Asian, - ,*
+Race / Ethnicity,30,Columbia School District,Black or African American, - ,*
+Race / Ethnicity,30,Columbia School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,30,Columbia School District,Two or More Races, - ,*
+Race / Ethnicity,30,Columbia School District,White,30,6.12244898
+Race / Ethnicity,31,Cornwall School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,31,Cornwall School District,Two or More Races, - ,*
+Race / Ethnicity,31,Cornwall School District,White, - ,*
+Race / Ethnicity,32,Coventry School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,32,Coventry School District,Asian, - ,*
+Race / Ethnicity,32,Coventry School District,Black or African American, - ,*
+Race / Ethnicity,32,Coventry School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,32,Coventry School District,Two or More Races, - ,*
+Race / Ethnicity,32,Coventry School District,White,124,7.716241444
+Race / Ethnicity,33,Cromwell School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,33,Cromwell School District,Asian, - ,*
+Race / Ethnicity,33,Cromwell School District,Black or African American, - ,*
+Race / Ethnicity,33,Cromwell School District,Hispanic/Latino of any race,20,13.42281879
+Race / Ethnicity,33,Cromwell School District,Two or More Races, - ,*
+Race / Ethnicity,33,Cromwell School District,White,80,5.141388175
+Race / Ethnicity,34,Danbury School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,34,Danbury School District,Asian,81,9.975369458
+Race / Ethnicity,34,Danbury School District,Black or African American,151,16.23655914
+Race / Ethnicity,34,Danbury School District,Hispanic/Latino of any race,574,14.23611111
+Race / Ethnicity,34,Danbury School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,34,Danbury School District,Two or More Races,25,14.79289941
+Race / Ethnicity,34,Danbury School District,White,516,11.3556338
+Race / Ethnicity,35,Darien School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,35,Darien School District,Asian, - ,*
+Race / Ethnicity,35,Darien School District,Black or African American, - ,*
+Race / Ethnicity,35,Darien School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,35,Darien School District,Two or More Races, - ,*
+Race / Ethnicity,35,Darien School District,White,147,3.273942094
+Race / Ethnicity,36,Deep River School District,Asian, - ,*
+Race / Ethnicity,36,Deep River School District,Black or African American, - ,*
+Race / Ethnicity,36,Deep River School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,36,Deep River School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,36,Deep River School District,Two or More Races, - ,*
+Race / Ethnicity,36,Deep River School District,White, - ,*
+Race / Ethnicity,37,Derby School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,37,Derby School District,Asian, - ,*
+Race / Ethnicity,37,Derby School District,Black or African American,51,22.97297297
+Race / Ethnicity,37,Derby School District,Hispanic/Latino of any race,47,12.98342541
+Race / Ethnicity,37,Derby School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,37,Derby School District,Two or More Races, - ,*
+Race / Ethnicity,37,Derby School District,White,99,11.89903846
+Race / Ethnicity,39,Eastford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,39,Eastford School District,Asian, - ,*
+Race / Ethnicity,39,Eastford School District,Black or African American, - ,*
+Race / Ethnicity,39,Eastford School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,39,Eastford School District,Two or More Races, - ,*
+Race / Ethnicity,39,Eastford School District,White, - ,*
+Race / Ethnicity,40,East Granby School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,40,East Granby School District,Asian, - ,*
+Race / Ethnicity,40,East Granby School District,Black or African American, - ,*
+Race / Ethnicity,40,East Granby School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,40,East Granby School District,Two or More Races, - ,*
+Race / Ethnicity,40,East Granby School District,White,32,4.469273743
+Race / Ethnicity,41,East Haddam School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,41,East Haddam School District,Asian, - ,*
+Race / Ethnicity,41,East Haddam School District,Black or African American, - ,*
+Race / Ethnicity,41,East Haddam School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,41,East Haddam School District,Two or More Races, - ,*
+Race / Ethnicity,41,East Haddam School District,White,99,8.188585608
+Race / Ethnicity,42,East Hampton School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,42,East Hampton School District,Asian, - ,*
+Race / Ethnicity,42,East Hampton School District,Black or African American, - ,*
+Race / Ethnicity,42,East Hampton School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,42,East Hampton School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,42,East Hampton School District,Two or More Races, - ,*
+Race / Ethnicity,42,East Hampton School District,White,90,5.019520357
+Race / Ethnicity,43,East Hartford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,43,East Hartford School District,Asian, - ,*
+Race / Ethnicity,43,East Hartford School District,Black or African American,177,7.125603865
+Race / Ethnicity,43,East Hartford School District,Hispanic/Latino of any race,327,11.01010101
+Race / Ethnicity,43,East Hartford School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,43,East Hartford School District,Two or More Races, - ,*
+Race / Ethnicity,43,East Hartford School District,White,113,8.766485648
+Race / Ethnicity,44,East Haven School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,44,East Haven School District,Asian, - ,*
+Race / Ethnicity,44,East Haven School District,Black or African American,26,22.80701754
+Race / Ethnicity,44,East Haven School District,Hispanic/Latino of any race,90,14.90066225
+Race / Ethnicity,44,East Haven School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,44,East Haven School District,Two or More Races, - ,*
+Race / Ethnicity,44,East Haven School District,White,379,16.01859679
+Race / Ethnicity,45,East Lyme School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,45,East Lyme School District,Asian, - ,*
+Race / Ethnicity,45,East Lyme School District,Black or African American, - ,*
+Race / Ethnicity,45,East Lyme School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,45,East Lyme School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,45,East Lyme School District,Two or More Races, - ,*
+Race / Ethnicity,45,East Lyme School District,White,147,5.934598304
+Race / Ethnicity,46,Easton School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,46,Easton School District,Asian, - ,*
+Race / Ethnicity,46,Easton School District,Black or African American, - ,*
+Race / Ethnicity,46,Easton School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,46,Easton School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,46,Easton School District,Two or More Races, - ,*
+Race / Ethnicity,46,Easton School District,White,37,3.991370011
+Race / Ethnicity,47,East Windsor School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,47,East Windsor School District,Asian, - ,*
+Race / Ethnicity,47,East Windsor School District,Black or African American,23,15.54054054
+Race / Ethnicity,47,East Windsor School District,Hispanic/Latino of any race,24,15.68627451
+Race / Ethnicity,47,East Windsor School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,47,East Windsor School District,Two or More Races, - ,*
+Race / Ethnicity,47,East Windsor School District,White,84,9.882352941
+Race / Ethnicity,48,Ellington School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,48,Ellington School District,Asian, - ,*
+Race / Ethnicity,48,Ellington School District,Black or African American, - ,*
+Race / Ethnicity,48,Ellington School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,48,Ellington School District,Two or More Races, - ,*
+Race / Ethnicity,48,Ellington School District,White,82,3.560573165
+Race / Ethnicity,49,Enfield School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,49,Enfield School District,Asian, - ,*
+Race / Ethnicity,49,Enfield School District,Black or African American,48,14.11764706
+Race / Ethnicity,49,Enfield School District,Hispanic/Latino of any race,79,14.73880597
+Race / Ethnicity,49,Enfield School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,49,Enfield School District,Two or More Races,26,10.6122449
+Race / Ethnicity,49,Enfield School District,White,513,11.70965533
+Race / Ethnicity,50,Essex School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,50,Essex School District,Asian, - ,*
+Race / Ethnicity,50,Essex School District,Black or African American, - ,*
+Race / Ethnicity,50,Essex School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,50,Essex School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,50,Essex School District,Two or More Races, - ,*
+Race / Ethnicity,50,Essex School District,White,34,6.589147287
+Race / Ethnicity,51,Fairfield School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,51,Fairfield School District,Asian,48,9.073724008
+Race / Ethnicity,51,Fairfield School District,Black or African American,30,12.71186441
+Race / Ethnicity,51,Fairfield School District,Hispanic/Latino of any race,86,9.919261822
+Race / Ethnicity,51,Fairfield School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,51,Fairfield School District,Two or More Races,21,7.553956835
+Race / Ethnicity,51,Fairfield School District,White,535,6.366016183
+Race / Ethnicity,52,Farmington School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,52,Farmington School District,Asian,29,4.991394148
+Race / Ethnicity,52,Farmington School District,Black or African American,21,10.14492754
+Race / Ethnicity,52,Farmington School District,Hispanic/Latino of any race,23,10.95238095
+Race / Ethnicity,52,Farmington School District,White,191,6.177231565
+Race / Ethnicity,53,Franklin School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,53,Franklin School District,Asian, - ,*
+Race / Ethnicity,53,Franklin School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,53,Franklin School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,53,Franklin School District,Two or More Races, - ,*
+Race / Ethnicity,53,Franklin School District,White, - ,*
+Race / Ethnicity,54,Glastonbury School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,54,Glastonbury School District,Asian, - ,*
+Race / Ethnicity,54,Glastonbury School District,Black or African American, - ,*
+Race / Ethnicity,54,Glastonbury School District,Hispanic/Latino of any race,37,8.371040724
+Race / Ethnicity,54,Glastonbury School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,54,Glastonbury School District,Two or More Races, - ,*
+Race / Ethnicity,54,Glastonbury School District,White,213,4.018867925
+Race / Ethnicity,56,Granby School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,56,Granby School District,Asian, - ,*
+Race / Ethnicity,56,Granby School District,Black or African American, - ,*
+Race / Ethnicity,56,Granby School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,56,Granby School District,Two or More Races, - ,*
+Race / Ethnicity,56,Granby School District,White,67,3.484139366
+Race / Ethnicity,57,Greenwich School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,57,Greenwich School District,Asian,21,2.966101695
+Race / Ethnicity,57,Greenwich School District,Black or African American,27,10.11235955
+Race / Ethnicity,57,Greenwich School District,Hispanic/Latino of any race,132,8.78243513
+Race / Ethnicity,57,Greenwich School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,57,Greenwich School District,Two or More Races, - ,*
+Race / Ethnicity,57,Greenwich School District,White,322,5.286488261
+Race / Ethnicity,58,Griswold School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,58,Griswold School District,Asian, - ,*
+Race / Ethnicity,58,Griswold School District,Black or African American, - ,*
+Race / Ethnicity,58,Griswold School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,58,Griswold School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,58,Griswold School District,Two or More Races, - ,*
+Race / Ethnicity,58,Griswold School District,White,169,9.917840376
+Race / Ethnicity,59,Groton School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,59,Groton School District,Asian,33,10.28037383
+Race / Ethnicity,59,Groton School District,Black or African American,106,19.13357401
+Race / Ethnicity,59,Groton School District,Hispanic/Latino of any race,150,19.23076923
+Race / Ethnicity,59,Groton School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,59,Groton School District,Two or More Races,32,15.53398058
+Race / Ethnicity,59,Groton School District,White,358,12.14794706
+Race / Ethnicity,60,Guilford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,60,Guilford School District,Asian, - ,*
+Race / Ethnicity,60,Guilford School District,Black or African American, - ,*
+Race / Ethnicity,60,Guilford School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,60,Guilford School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,60,Guilford School District,Two or More Races, - ,*
+Race / Ethnicity,60,Guilford School District,White,185,5.766832918
+Race / Ethnicity,62,Hamden School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,62,Hamden School District,Asian,51,11.48648649
+Race / Ethnicity,62,Hamden School District,Black or African American,273,14.99176277
+Race / Ethnicity,62,Hamden School District,Hispanic/Latino of any race,152,16.72167217
+Race / Ethnicity,62,Hamden School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,62,Hamden School District,Two or More Races, - ,*
+Race / Ethnicity,62,Hamden School District,White,269,10.58221873
+Race / Ethnicity,63,Hampton School District,Asian, - ,*
+Race / Ethnicity,63,Hampton School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,63,Hampton School District,Two or More Races, - ,*
+Race / Ethnicity,63,Hampton School District,White, - ,*
+Race / Ethnicity,64,Hartford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,64,Hartford School District,Asian,79,14.73880597
+Race / Ethnicity,64,Hartford School District,Black or African American,1543,22.46324065
+Race / Ethnicity,6,Hartford School District,Hispanic/Latino of any race,3517,33.27026771
+Race / Ethnicity,64,Hartford School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,64,Hartford School District,Two or More Races,200,23.61275089
+Race / Ethnicity,64,Hartford School District,White,223,11.56039399
+Race / Ethnicity,65,Hartland School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,65,Hartland School District,Asian, - ,*
+Race / Ethnicity,65,Hartland School District,Black or African American, - ,*
+Race / Ethnicity,65,Hartland School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,65,Hartland School District,Two or More Races, - ,*
+Race / Ethnicity,65,Hartland School District,White, - ,*
+Race / Ethnicity,67,Hebron School District,Asian, - ,*
+Race / Ethnicity,67,Hebron School District,Black or African American, - ,*
+Race / Ethnicity,67,Hebron School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,67,Hebron School District,Two or More Races, - ,*
+Race / Ethnicity,67,Hebron School District,White,29,2.962206333
+Race / Ethnicity,68,Kent School District,Asian, - ,*
+Race / Ethnicity,68,Kent School District,Black or African American, - ,*
+Race / Ethnicity,68,Kent School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,68,Kent School District,Two or More Races, - ,*
+Race / Ethnicity,68,Kent School District,White, - ,*
+Race / Ethnicity,69,Killingly School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,69,Killingly School District,Asian, - ,*
+Race / Ethnicity,69,Killingly School District,Black or African American, - ,*
+Race / Ethnicity,69,Killingly School District,Hispanic/Latino of any race,23,18.4
+Race / Ethnicity,69,Killingly School District,Two or More Races,20,11.62790698
+Race / Ethnicity,69,Killingly School District,White,299,13.4442446
+Race / Ethnicity,71,Lebanon School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,71,Lebanon School District,Asian, - ,*
+Race / Ethnicity,71,Lebanon School District,Black or African American, - ,*
+Race / Ethnicity,71,Lebanon School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,71,Lebanon School District,Two or More Races, - ,*
+Race / Ethnicity,71,Lebanon School District,White,95,7.989907485
+Race / Ethnicity,72,Ledyard School District,American Indian or Alaska Native,20,14.81481481
+Race / Ethnicity,72,Ledyard School District,Asian, - ,*
+Race / Ethnicity,72,Ledyard School District,Black or African American, - ,*
+Race / Ethnicity,72,Ledyard School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,72,Ledyard School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,72,Ledyard School District,Two or More Races, - ,*
+Race / Ethnicity,72,Ledyard School District,White,154,8.012486993
+Race / Ethnicity,73,Lisbon School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,73,Lisbon School District,Asian, - ,*
+Race / Ethnicity,73,Lisbon School District,Black or African American, - ,*
+Race / Ethnicity,73,Lisbon School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,73,Lisbon School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,73,Lisbon School District,Two or More Races, - ,*
+Race / Ethnicity,73,Lisbon School District,White,22,5.314009662
+Race / Ethnicity,74,Litchfield School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,74,Litchfield School District,Asian, - ,*
+Race / Ethnicity,74,Litchfield School District,Black or African American, - ,*
+Race / Ethnicity,74,Litchfield School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,74,Litchfield School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,74,Litchfield School District,Two or More Races, - ,*
+Race / Ethnicity,74,Litchfield School District,White,66,6.451612903
+Race / Ethnicity,76,Madison School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,76,Madison School District,Asian, - ,*
+Race / Ethnicity,76,Madison School District,Black or African American, - ,*
+Race / Ethnicity,76,Madison School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,76,Madison School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,76,Madison School District,Two or More Races, - ,*
+Race / Ethnicity,76,Madison School District,White,136,4.265997491
+Race / Ethnicity,77,Manchester School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,77,Manchester School District,Asian,94,20.25862069
+Race / Ethnicity,77,Manchester School District,Black or African American,328,23.99414777
+Race / Ethnicity,77,Manchester School District,Hispanic/Latino of any race,415,28.07848444
+Race / Ethnicity,77,Manchester School District,Two or More Races,31,11.69811321
+Race / Ethnicity,77,Manchester School District,White,552,20.62780269
+Race / Ethnicity,78,Mansfield School District,Asian, - ,*
+Race / Ethnicity,78,Mansfield School District,Black or African American, - ,*
+Race / Ethnicity,78,Mansfield School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,78,Mansfield School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,78,Mansfield School District,Two or More Races, - ,*
+Race / Ethnicity,78,Mansfield School District,White,52,5.300713558
+Race / Ethnicity,79,Marlborough School District,Asian, - ,*
+Race / Ethnicity,79,Marlborough School District,Black or African American, - ,*
+Race / Ethnicity,79,Marlborough School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,79,Marlborough School District,Two or More Races, - ,*
+Race / Ethnicity,79,Marlborough School District,White,24,4.020100503
+Race / Ethnicity,80,Meriden School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,80,Meriden School District,Asian,20,8.368200837
+Race / Ethnicity,80,Meriden School District,Black or African American,120,12.08459215
+Race / Ethnicity,80,Meriden School District,Hispanic/Latino of any race,564,14.66840052
+Race / Ethnicity,80,Meriden School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,80,Meriden School District,Two or More Races, - ,*
+Race / Ethnicity,80,Meriden School District,White,205,7.120527961
+Race / Ethnicity,83,Middletown School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,83,Middletown School District,Asian, - ,*
+Race / Ethnicity,83,Middletown School District,Black or African American,131,11.96347032
+Race / Ethnicity,83,Middletown School District,Hispanic/Latino of any race,122,16.41991925
+Race / Ethnicity,83,Middletown School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,83,Middletown School District,Two or More Races, - ,*
+Race / Ethnicity,83,Middletown School District,White,209,7.760861493
+Race / Ethnicity,84,Milford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,84,Milford School District,Asian,43,7.904411765
+Race / Ethnicity,84,Milford School District,Black or African American,47,14.07185629
+Race / Ethnicity,84,Milford School District,Hispanic/Latino of any race,56,14.39588689
+Race / Ethnicity,84,Milford School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,84,Milford School District,Two or More Races, - ,*
+Race / Ethnicity,84,Milford School District,White,572,10.38112523
+Race / Ethnicity,85,Monroe School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,85,Monroe School District,Asian, - ,*
+Race / Ethnicity,85,Monroe School District,Black or African American, - ,*
+Race / Ethnicity,85,Monroe School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,85,Monroe School District,Two or More Races, - ,*
+Race / Ethnicity,85,Monroe School District,White,204,6.480304956
+Race / Ethnicity,86,Montville School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,86,Montville School District,Asian, - ,*
+Race / Ethnicity,86,Montville School District,Black or African American, - ,*
+Race / Ethnicity,86,Montville School District,Hispanic/Latino of any race,20,9.900990099
+Race / Ethnicity,86,Montville School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,86,Montville School District,Two or More Races,26,12.32227488
+Race / Ethnicity,86,Montville School District,White,121,6.840022612
+Race / Ethnicity,88,Naugatuck School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,88,Naugatuck School District,Asian, - ,*
+Race / Ethnicity,88,Naugatuck School District,Black or African American,50,15.47987616
+Race / Ethnicity,88,Naugatuck School District,Hispanic/Latino of any race,116,13.71158392
+Race / Ethnicity,88,Naugatuck School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,88,Naugatuck School District,Two or More Races,31,15.8974359
+Race / Ethnicity,88,Naugatuck School District,White,351,11.74305788
+Race / Ethnicity,89,New Britain School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,89,New Britain School District,Asian,36,14.22924901
+Race / Ethnicity,89,New Britain School District,Black or African American,292,18.85087153
+Race / Ethnicity,89,New Britain School District,Hispanic/Latino of any race,1748,29.52702703
+Race / Ethnicity,89,New Britain School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,89,New Britain School District,Two or More Races,22,17.1875
+Race / Ethnicity,89,New Britain School District,White,451,20.19704433
+Race / Ethnicity,90,New Canaan School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,90,New Canaan School District,Asian, - ,*
+Race / Ethnicity,90,New Canaan School District,Black or African American, - ,*
+Race / Ethnicity,90,New Canaan School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,90,New Canaan School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,90,New Canaan School District,Two or More Races, - ,*
+Race / Ethnicity,90,New Canaan School District,White,370,9.927555675
+Race / Ethnicity,91,New Fairfield School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,91,New Fairfield School District,Asian, - ,*
+Race / Ethnicity,91,New Fairfield School District,Black or African American, - ,*
+Race / Ethnicity,91,New Fairfield School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,91,New Fairfield School District,Two or More Races, - ,*
+Race / Ethnicity,91,New Fairfield School District,White,174,6.791569087
+Race / Ethnicity,92,New Hartford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,92,New Hartford School District,Asian, - ,*
+Race / Ethnicity,92,New Hartford School District,Black or African American, - ,*
+Race / Ethnicity,92,New Hartford School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,92,New Hartford School District,Two or More Races, - ,*
+Race / Ethnicity,92,New Hartford School District,White,24,4.363636364
+Race / Ethnicity,93,New Haven School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,93,New Haven School District,Asian,36,8.391608392
+Race / Ethnicity,93,New Haven School District,Black or African American,2043,22.32298951
+Race / Ethnicity,93,New Haven School District,Hispanic/Latino of any race,1816,23.13081136
+Race / Ethnicity,93,New Haven School District,Two or More Races, - ,*
+Race / Ethnicity,93,New Haven School District,White,463,15.13566525
+Race / Ethnicity,94,Newington School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,94,Newington School District,Asian, - ,*
+Race / Ethnicity,94,Newington School District,Black or African American, - ,*
+Race / Ethnicity,94,Newington School District,Hispanic/Latino of any race,48,7.218045113
+Race / Ethnicity,94,Newington School District,Two or More Races, - ,*
+Race / Ethnicity,94,Newington School District,White,108,3.72157133
+Race / Ethnicity,95,New London School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,95,New London School District,Asian, - ,*
+Race / Ethnicity,95,New London School District,Black or African American,165,21.20822622
+Race / Ethnicity,95,New London School District,Hispanic/Latino of any race,372,25.42720437
+Race / Ethnicity,95,New London School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,95,New London School District,Two or More Races,34,26.15384615
+Race / Ethnicity,95,New London School District,White,132,27.04918033
+Race / Ethnicity,96,New Milford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,96,New Milford School District,Asian, - ,*
+Race / Ethnicity,96,New Milford School District,Black or African American, - ,*
+Race / Ethnicity,96,New Milford School District,Hispanic/Latino of any race,46,10.87470449
+Race / Ethnicity,96,New Milford School District,Two or More Races, - ,*
+Race / Ethnicity,96,New Milford School District,White,355,9.114249037
+Race / Ethnicity,97,Newtown School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,97,Newtown School District,Asian, - ,*
+Race / Ethnicity,97,Newtown School District,Black or African American, - ,*
+Race / Ethnicity,97,Newtown School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,97,Newtown School District,Two or More Races, - ,*
+Race / Ethnicity,97,Newtown School District,White,207,4.41552901
+Race / Ethnicity,98,Norfolk School District,Asian, - ,*
+Race / Ethnicity,98,Norfolk School District,Black or African American, - ,*
+Race / Ethnicity,98,Norfolk School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,98,Norfolk School District,Two or More Races, - ,*
+Race / Ethnicity,98,Norfolk School District,White, - ,*
+Race / Ethnicity,99,North Branford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,99,North Branford School District,Asian, - ,*
+Race / Ethnicity,99,North Branford School District,Black or African American, - ,*
+Race / Ethnicity,99,North Branford School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,99,North Branford School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,99,North Branford School District,Two or More Races, - ,*
+Race / Ethnicity,99,North Branford School District,White,308,15.55555556
+Race / Ethnicity,100,North Canaan School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,100,North Canaan School District,Asian, - ,*
+Race / Ethnicity,100,North Canaan School District,Black or African American, - ,*
+Race / Ethnicity,100,North Canaan School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,100,North Canaan School District,Two or More Races, - ,*
+Race / Ethnicity,100,North Canaan School District,White,35,13.10861423
+Race / Ethnicity,101,North Haven School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,101,North Haven School District,Asian, - ,*
+Race / Ethnicity,101,North Haven School District,Black or African American, - ,*
+Race / Ethnicity,101,North Haven School District,Hispanic/Latino of any race,24,11.00917431
+Race / Ethnicity,101,North Haven School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,101,North Haven School District,Two or More Races, - ,*
+Race / Ethnicity,101,North Haven School District,White,266,9.213716661
+Race / Ethnicity,102,North Stonington School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,102,North Stonington School District,Asian, - ,*
+Race / Ethnicity,102,North Stonington School District,Black or African American, - ,*
+Race / Ethnicity,102,North Stonington School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,102,North Stonington School District,Two or More Races, - ,*
+Race / Ethnicity,102,North Stonington School District,White,68,9.618104668
+Race / Ethnicity,103,Norwalk School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,103,Norwalk School District,Asian,41,7.509157509
+Race / Ethnicity,103,Norwalk School District,Black or African American,322,14.04886562
+Race / Ethnicity,103,Norwalk School District,Hispanic/Latino of any race,450,11.06466683
+Race / Ethnicity,103,Norwalk School District,Two or More Races, - ,*
+Race / Ethnicity,103,Norwalk School District,White,331,8.17687747
+Race / Ethnicity,104,Norwich School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,104,Norwich School District,Asian,21,7.167235495
+Race / Ethnicity,104,Norwich School District,Black or African American,89,12.53521127
+Race / Ethnicity,104,Norwich School District,Hispanic/Latino of any race,202,20.11952191
+Race / Ethnicity,104,Norwich School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,104,Norwich School District,Two or More Races,58,16.47727273
+Race / Ethnicity,104,Norwich School District,White,200,13.69863014
+Race / Ethnicity,106,Old Saybrook School District,Asian, - ,*
+Race / Ethnicity,106,Old Saybrook School District,Black or African American, - ,*
+Race / Ethnicity,106,Old Saybrook School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,106,Old Saybrook School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,106,Old Saybrook School District,Two or More Races, - ,*
+Race / Ethnicity,106,Old Saybrook School District,White,182,13.67392938
+Race / Ethnicity,107,Orange School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,107,Orange School District,Asian, - ,*
+Race / Ethnicity,107,Orange School District,Black or African American, - ,*
+Race / Ethnicity,107,Orange School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,107,Orange School District,Two or More Races, - ,*
+Race / Ethnicity,107,Orange School District,White,38,3.675048356
+Race / Ethnicity,108,Oxford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,108,Oxford School District,Asian, - ,*
+Race / Ethnicity,108,Oxford School District,Black or African American, - ,*
+Race / Ethnicity,108,Oxford School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,108,Oxford School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,108,Oxford School District,Two or More Races, - ,*
+Race / Ethnicity,108,Oxford School District,White,115,5.958549223
+Race / Ethnicity,109,Plainfield School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,109,Plainfield School District,Asian, - ,*
+Race / Ethnicity,109,Plainfield School District,Black or African American, - ,*
+Race / Ethnicity,109,Plainfield School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,109,Plainfield School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,109,Plainfield School District,Two or More Races, - ,*
+Race / Ethnicity,109,Plainfield School District,White,222,10.07259528
+Race / Ethnicity,110,Plainville School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,110,Plainville School District,Asian, - ,*
+Race / Ethnicity,110,Plainville School District,Black or African American, - ,*
+Race / Ethnicity,110,Plainville School District,Hispanic/Latino of any race,42,13.90728477
+Race / Ethnicity,110,Plainville School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,110,Plainville School District,Two or More Races, - ,*
+Race / Ethnicity,110,Plainville School District,White,164,8.869659275
+Race / Ethnicity,111,Plymouth School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,111,Plymouth School District,Asian, - ,*
+Race / Ethnicity,111,Plymouth School District,Black or African American, - ,*
+Race / Ethnicity,111,Plymouth School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,111,Plymouth School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,111,Plymouth School District,Two or More Races, - ,*
+Race / Ethnicity,111,Plymouth School District,White,132,8.604954368
+Race / Ethnicity,112,Pomfret School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,112,Pomfret School District,Asian, - ,*
+Race / Ethnicity,112,Pomfret School District,Black or African American, - ,*
+Race / Ethnicity,112,Pomfret School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,112,Pomfret School District,White, - ,*
+Race / Ethnicity,113,Portland School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,113,Portland School District,Asian, - ,*
+Race / Ethnicity,113,Portland School District,Black or African American, - ,*
+Race / Ethnicity,113,Portland School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,113,Portland School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,113,Portland School District,Two or More Races, - ,*
+Race / Ethnicity,113,Portland School District,White,47,3.94295302
+Race / Ethnicity,114,Preston School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,114,Preston School District,Asian, - ,*
+Race / Ethnicity,114,Preston School District,Black or African American, - ,*
+Race / Ethnicity,114,Preston School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,114,Preston School District,Two or More Races, - ,*
+Race / Ethnicity,114,Preston School District,White, - ,*
+Race / Ethnicity,116,Putnam School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,116,Putnam School District,Asian, - ,*
+Race / Ethnicity,116,Putnam School District,Black or African American, - ,*
+Race / Ethnicity,116,Putnam School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,116,Putnam School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,116,Putnam School District,Two or More Races, - ,*
+Race / Ethnicity,116,Putnam School District,White,139,12.56781193
+Race / Ethnicity,117,Redding School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,117,Redding School District,Asian, - ,*
+Race / Ethnicity,117,Redding School District,Black or African American, - ,*
+Race / Ethnicity,117,Redding School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,117,Redding School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,117,Redding School District,Two or More Races, - ,*
+Race / Ethnicity,117,Redding School District,White,50,4.75737393
+Race / Ethnicity,118,Ridgefield School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,118,Ridgefield School District,Asian, - ,*
+Race / Ethnicity,118,Ridgefield School District,Black or African American, - ,*
+Race / Ethnicity,118,Ridgefield School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,118,Ridgefield School District,Two or More Races, - ,*
+Race / Ethnicity,118,Ridgefield School District,White,245,5.167686142
+Race / Ethnicity,119,Rocky Hill School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,119,Rocky Hill School District,Asian,38,9.947643979
+Race / Ethnicity,119,Rocky Hill School District,Black or African American, - ,*
+Race / Ethnicity,119,Rocky Hill School District,Hispanic/Latino of any race,21,12.13872832
+Race / Ethnicity,119,Rocky Hill School District,Two or More Races, - ,*
+Race / Ethnicity,119,Rocky Hill School District,White,108,5.717310746
+Race / Ethnicity,121,Salem School District,Asian, - ,*
+Race / Ethnicity,121,Salem School District,Black or African American, - ,*
+Race / Ethnicity,121,Salem School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,121,Salem School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,121,Salem School District,Two or More Races, - ,*
+Race / Ethnicity,121,Salem School District,White, - ,*
+Race / Ethnicity,122,Salisbury School District,Asian, - ,*
+Race / Ethnicity,122,Salisbury School District,Black or African American, - ,*
+Race / Ethnicity,122,Salisbury School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,122,Salisbury School District,Two or More Races, - ,*
+Race / Ethnicity,122,Salisbury School District,White, - ,*
+Race / Ethnicity,123,Scotland School District,Black or African American, - ,*
+Race / Ethnicity,123,Scotland School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,123,Scotland School District,White, - ,*
+Race / Ethnicity,124,Seymour School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,124,Seymour School District,Asian, - ,*
+Race / Ethnicity,124,Seymour School District,Black or African American, - ,*
+Race / Ethnicity,124,Seymour School District,Hispanic/Latino of any race,34,15.59633028
+Race / Ethnicity,124,Seymour School District,Two or More Races, - ,*
+Race / Ethnicity,124,Seymour School District,White,128,6.736842105
+Race / Ethnicity,125,Sharon School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,125,Sharon School District,Asian, - ,*
+Race / Ethnicity,125,Sharon School District,Black or African American, - ,*
+Race / Ethnicity,125,Sharon School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,125,Sharon School District,Two or More Races, - ,*
+Race / Ethnicity,125,Sharon School District,White, - ,*
+Race / Ethnicity,126,Shelton School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,126,Shelton School District,Asian, - ,*
+Race / Ethnicity,126,Shelton School District,Black or African American,22,12.64367816
+Race / Ethnicity,126,Shelton School District,Hispanic/Latino of any race,54,11.73913043
+Race / Ethnicity,126,Shelton School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,126,Shelton School District,Two or More Races, - ,*
+Race / Ethnicity,126,Shelton School District,White,299,7.008907642
+Race / Ethnicity,127,Sherman School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,127,Sherman School District,Asian, - ,*
+Race / Ethnicity,127,Sherman School District,Black or African American, - ,*
+Race / Ethnicity,127,Sherman School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,127,Sherman School District,Two or More Races, - ,*
+Race / Ethnicity,127,Sherman School District,White,41,11.05121294
+Race / Ethnicity,128,Simsbury School District,Asian, - ,*
+Race / Ethnicity,128,Simsbury School District,Black or African American, - ,*
+Race / Ethnicity,128,Simsbury School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,128,Simsbury School District,Two or More Races, - ,*
+Race / Ethnicity,128,Simsbury School District,White,187,4.721030043
+Race / Ethnicity,129,Somers School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,129,Somers School District,Asian, - ,*
+Race / Ethnicity,129,Somers School District,Black or African American, - ,*
+Race / Ethnicity,129,Somers School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,129,Somers School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,129,Somers School District,Two or More Races, - ,*
+Race / Ethnicity,129,Somers School District,White,178,12.07598372
+Race / Ethnicity,131,Southington School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,131,Southington School District,Asian, - ,*
+Race / Ethnicity,131,Southington School District,Black or African American, - ,*
+Race / Ethnicity,131,Southington School District,Hispanic/Latino of any race,36,10.68249258
+Race / Ethnicity,131,Southington School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,131,Southington School District,Two or More Races, - ,*
+Race / Ethnicity,131,Southington School District,White,387,6.592844974
+Race / Ethnicity,132,South Windsor School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,132,South Windsor School District,Asian,62,12.9707113
+Race / Ethnicity,132,South Windsor School District,Black or African American,35,15.69506726
+Race / Ethnicity,132,South Windsor School District,Hispanic/Latino of any race,58,18.83116883
+Race / Ethnicity,132,South Windsor School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,132,South Windsor School District,Two or More Races, - ,*
+Race / Ethnicity,132,South Windsor School District,White,425,13.05683564
+Race / Ethnicity,133,Sprague School District,Asian, - ,*
+Race / Ethnicity,133,Sprague School District,Black or African American, - ,*
+Race / Ethnicity,133,Sprague School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,133,Sprague School District,Two or More Races, - ,*
+Race / Ethnicity,133,Sprague School District,White,24,8.540925267
+Race / Ethnicity,134,Stafford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,134,Stafford School District,Asian, - ,*
+Race / Ethnicity,134,Stafford School District,Black or African American, - ,*
+Race / Ethnicity,134,Stafford School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,134,Stafford School District,Two or More Races, - ,*
+Race / Ethnicity,134,Stafford School District,White,129,7.928703135
+Race / Ethnicity,135,Stamford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,135,Stamford School District,Asian,142,11.16352201
+Race / Ethnicity,135,Stamford School District,Black or African American,338,10.67256078
+Race / Ethnicity,135,Stamford School District,Hispanic/Latino of any race,690,12.63042284
+Race / Ethnicity,135,Stamford School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,135,Stamford School District,Two or More Races, - ,*
+Race / Ethnicity,135,Stamford School District,White,384,6.964091404
+Race / Ethnicity,136,Sterling School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,136,Sterling School District,Asian, - ,*
+Race / Ethnicity,136,Sterling School District,Black or African American, - ,*
+Race / Ethnicity,136,Sterling School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,136,Sterling School District,Two or More Races, - ,*
+Race / Ethnicity,136,Sterling School District,White,43,9.110169492
+Race / Ethnicity,137,Stonington School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,137,Stonington School District,Asian, - ,*
+Race / Ethnicity,137,Stonington School District,Black or African American, - ,*
+Race / Ethnicity,137,Stonington School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,137,Stonington School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,137,Stonington School District,Two or More Races, - ,*
+Race / Ethnicity,137,Stonington School District,White,356,16.32278771
+Race / Ethnicity,138,Stratford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,138,Stratford School District,Asian, - ,*
+Race / Ethnicity,138,Stratford School District,Black or African American,163,10.42199488
+Race / Ethnicity,138,Stratford School District,Hispanic/Latino of any race,250,13.24152542
+Race / Ethnicity,138,Stratford School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,138,Stratford School District,Two or More Races,20,12.5
+Race / Ethnicity,138,Stratford School District,White,371,10.9310548
+Race / Ethnicity,139,Suffield School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,139,Suffield School District,Asian, - ,*
+Race / Ethnicity,139,Suffield School District,Black or African American, - ,*
+Race / Ethnicity,139,Suffield School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,139,Suffield School District,Two or More Races, - ,*
+Race / Ethnicity,139,Suffield School District,White,197,8.775055679
+Race / Ethnicity,140,Thomaston School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,140,Thomaston School District,Asian, - ,*
+Race / Ethnicity,140,Thomaston School District,Black or African American, - ,*
+Race / Ethnicity,140,Thomaston School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,140,Thomaston School District,Two or More Races, - ,*
+Race / Ethnicity,140,Thomaston School District,White,54,5.373134328
+Race / Ethnicity,141,Thompson School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,141,Thompson School District,Asian, - ,*
+Race / Ethnicity,141,Thompson School District,Black or African American, - ,*
+Race / Ethnicity,141,Thompson School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,141,Thompson School District,Two or More Races, - ,*
+Race / Ethnicity,141,Thompson School District,White,128,11.40819964
+Race / Ethnicity,142,Tolland School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,142,Tolland School District,Asian, - ,*
+Race / Ethnicity,142,Tolland School District,Black or African American, - ,*
+Race / Ethnicity,142,Tolland School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,142,Tolland School District,Two or More Races, - ,*
+Race / Ethnicity,142,Tolland School District,White,128,4.680073126
+Race / Ethnicity,143,Torrington School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,143,Torrington School District,Asian, - ,*
+Race / Ethnicity,143,Torrington School District,Black or African American,41,18.63636364
+Race / Ethnicity,143,Torrington School District,Hispanic/Latino of any race,104,13.16455696
+Race / Ethnicity,143,Torrington School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,143,Torrington School District,Two or More Races, - ,*
+Race / Ethnicity,143,Torrington School District,White,405,12.87758347
+Race / Ethnicity,144,Trumbull School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,144,Trumbull School District,Asian,24,5.405405405
+Race / Ethnicity,144,Trumbull School District,Black or African American,22,7.560137457
+Race / Ethnicity,144,Trumbull School District,Hispanic/Latino of any race,43,8.3984375
+Race / Ethnicity,144,Trumbull School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,144,Trumbull School District,Two or More Races, - ,*
+Race / Ethnicity,144,Trumbull School District,White,357,6.27085895
+Race / Ethnicity,145,Union School District,Black or African American, - ,*
+Race / Ethnicity,145,Union School District,White, - ,*
+Race / Ethnicity,146,Vernon School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,146,Vernon School District,Asian,21,11.11111111
+Race / Ethnicity,146,Vernon School District,Black or African American,66,13.92405063
+Race / Ethnicity,146,Vernon School District,Hispanic/Latino of any race,84,20.0477327
+Race / Ethnicity,146,Vernon School District,Two or More Races, - ,*
+Race / Ethnicity,146,Vernon School District,White,196,8.129406885
+Race / Ethnicity,147,Voluntown School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,147,Voluntown School District,Asian, - ,*
+Race / Ethnicity,147,Voluntown School District,Black or African American, - ,*
+Race / Ethnicity,147,Voluntown School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,147,Voluntown School District,Two or More Races, - ,*
+Race / Ethnicity,147,Voluntown School District,White,25,8.865248227
+Race / Ethnicity,148,Wallingford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,148,Wallingford School District,Asian,20,6.622516556
+Race / Ethnicity,148,Wallingford School District,Black or African American, - ,*
+Race / Ethnicity,148,Wallingford School District,Hispanic/Latino of any race,124,14.05895692
+Race / Ethnicity,148,Wallingford School District,Two or More Races, - ,*
+Race / Ethnicity,148,Wallingford School District,White,540,10.69306931
+Race / Ethnicity,151,Waterbury School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,151,Waterbury School District,Asian,27,8.385093168
+Race / Ethnicity,151,Waterbury School District,Black or African American,751,16.47291073
+Race / Ethnicity,151,Waterbury School District,Hispanic/Latino of any race,1691,19.97165466
+Race / Ethnicity,151,Waterbury School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,151,Waterbury School District,Two or More Races,55,11.65254237
+Race / Ethnicity,151,Waterbury School District,White,513,12.76754604
+Race / Ethnicity,152,Waterford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,152,Waterford School District,Asian, - ,*
+Race / Ethnicity,152,Waterford School District,Black or African American, - ,*
+Race / Ethnicity,152,Waterford School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,152,Waterford School District,Two or More Races, - ,*
+Race / Ethnicity,152,Waterford School District,White,146,6.700321248
+Race / Ethnicity,153,Watertown School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,153,Watertown School District,Asian, - ,*
+Race / Ethnicity,153,Watertown School District,Black or African American, - ,*
+Race / Ethnicity,153,Watertown School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,153,Watertown School District,Two or More Races, - ,*
+Race / Ethnicity,153,Watertown School District,White,307,11.38724036
+Race / Ethnicity,154,Westbrook School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,154,Westbrook School District,Asian, - ,*
+Race / Ethnicity,154,Westbrook School District,Black or African American, - ,*
+Race / Ethnicity,154,Westbrook School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,154,Westbrook School District,Two or More Races, - ,*
+Race / Ethnicity,154,Westbrook School District,White,36,4.384896468
+Race / Ethnicity,155,West Hartford School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,155,West Hartford School District,Asian,104,9.310653536
+Race / Ethnicity,155,West Hartford School District,Black or African American,74,8.17679558
+Race / Ethnicity,155,West Hartford School District,Hispanic/Latino of any race,211,13.60412637
+Race / Ethnicity,155,West Hartford School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,155,West Hartford School District,Two or More Races, - ,*
+Race / Ethnicity,155,West Hartford School District,White,375,5.992329818
+Race / Ethnicity,156,West Haven School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,156,West Haven School District,Asian, - ,*
+Race / Ethnicity,156,West Haven School District,Black or African American,172,13.06990881
+Race / Ethnicity,156,West Haven School District,Hispanic/Latino of any race,293,15.6517094
+Race / Ethnicity,156,West Haven School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,156,West Haven School District,Two or More Races,37,16.74208145
+Race / Ethnicity,156,West Haven School District,White,361,14.78902089
+Race / Ethnicity,157,Weston School District,Asian, - ,*
+Race / Ethnicity,157,Weston School District,Black or African American, - ,*
+Race / Ethnicity,157,Weston School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,157,Weston School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,157,Weston School District,Two or More Races, - ,*
+Race / Ethnicity,157,Weston School District,White,217,9.70049173
+Race / Ethnicity,158,Westport School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,158,Westport School District,Asian, - ,*
+Race / Ethnicity,158,Westport School District,Black or African American, - ,*
+Race / Ethnicity,158,Westport School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,158,Westport School District,Two or More Races, - ,*
+Race / Ethnicity,158,Westport School District,White,95,1.860920666
+Race / Ethnicity,159,Wethersfield School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,159,Wethersfield School District,Asian, - ,*
+Race / Ethnicity,159,Wethersfield School District,Black or African American, - ,*
+Race / Ethnicity,159,Wethersfield School District,Hispanic/Latino of any race,58,11.21856867
+Race / Ethnicity,159,Wethersfield School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,159,Wethersfield School District,Two or More Races, - ,*
+Race / Ethnicity,159,Wethersfield School District,White,181,6.501436782
+Race / Ethnicity,160,Willington School District,Asian, - ,*
+Race / Ethnicity,160,Willington School District,Black or African American, - ,*
+Race / Ethnicity,160,Willington School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,160,Willington School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,160,Willington School District,Two or More Races, - ,*
+Race / Ethnicity,160,Willington School District,White,20,4.514672686
+Race / Ethnicity,161,Wilton School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,161,Wilton School District,Asian,31,10.76388889
+Race / Ethnicity,161,Wilton School District,Black or African American, - ,*
+Race / Ethnicity,161,Wilton School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,161,Wilton School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,161,Wilton School District,Two or More Races, - ,*
+Race / Ethnicity,161,Wilton School District,White,554,14.43460135
+Race / Ethnicity,162,Winchester School District,Asian, - ,*
+Race / Ethnicity,162,Winchester School District,Black or African American, - ,*
+Race / Ethnicity,162,Winchester School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,162,Winchester School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,162,Winchester School District,Two or More Races, - ,*
+Race / Ethnicity,162,Winchester School District,White,67,10.51805338
+Race / Ethnicity,163,Windham School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,163,Windham School District,Asian, - ,*
+Race / Ethnicity,163,Windham School District,Black or African American,25,15.24390244
+Race / Ethnicity,163,Windham School District,Hispanic/Latino of any race,428,20.6763285
+Race / Ethnicity,163,Windham School District,Two or More Races, - ,*
+Race / Ethnicity,163,Windham School District,White,109,12.86894923
+Race / Ethnicity,164,Windsor School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,164,Windsor School District,Asian, - ,*
+Race / Ethnicity,164,Windsor School District,Black or African American,139,8.564386938
+Race / Ethnicity,164,Windsor School District,Hispanic/Latino of any race,53,10.68548387
+Race / Ethnicity,164,Windsor School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,164,Windsor School District,Two or More Races, - ,*
+Race / Ethnicity,164,Windsor School District,White,67,6.23255814
+Race / Ethnicity,165,Windsor Locks School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,165,Windsor Locks School District,Asian, - ,*
+Race / Ethnicity,165,Windsor Locks School District,Black or African American,26,16.99346405
+Race / Ethnicity,165,Windsor Locks School District,Hispanic/Latino of any race,21,13.63636364
+Race / Ethnicity,165,Windsor Locks School District,Two or More Races, - ,*
+Race / Ethnicity,165,Windsor Locks School District,White,127,10.34201954
+Race / Ethnicity,166,Wolcott School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,166,Wolcott School District,Asian, - ,*
+Race / Ethnicity,166,Wolcott School District,Black or African American, - ,*
+Race / Ethnicity,166,Wolcott School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,166,Wolcott School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,166,Wolcott School District,Two or More Races, - ,*
+Race / Ethnicity,166,Wolcott School District,White,72,3.088803089
+Race / Ethnicity,167,Woodbridge School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,167,Woodbridge School District,Asian, - ,*
+Race / Ethnicity,167,Woodbridge School District,Black or African American, - ,*
+Race / Ethnicity,167,Woodbridge School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,167,Woodbridge School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,167,Woodbridge School District,Two or More Races, - ,*
+Race / Ethnicity,167,Woodbridge School District,White,22,3.978300181
+Race / Ethnicity,169,Woodstock School District,Asian, - ,*
+Race / Ethnicity,169,Woodstock School District,Black or African American, - ,*
+Race / Ethnicity,169,Woodstock School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,169,Woodstock School District,Two or More Races, - ,*
+Race / Ethnicity,169,Woodstock School District,White,35,4.289215686
+Race / Ethnicity,201,Regional School District 01,Asian, - ,*
+Race / Ethnicity,201,Regional School District 01,Black or African American, - ,*
+Race / Ethnicity,201,Regional School District 01,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,201,Regional School District 01,Two or More Races, - ,*
+Race / Ethnicity,201,Regional School District 01,White,22,5.314009662
+Race / Ethnicity,204,Regional School District 04,American Indian or Alaska Native, - ,*
+Race / Ethnicity,204,Regional School District 04,Asian, - ,*
+Race / Ethnicity,204,Regional School District 04,Black or African American, - ,*
+Race / Ethnicity,204,Regional School District 04,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,204,Regional School District 04,Two or More Races, - ,*
+Race / Ethnicity,204,Regional School District 04,White,64,7.207207207
+Race / Ethnicity,205,Regional School District 05,American Indian or Alaska Native, - ,*
+Race / Ethnicity,205,Regional School District 05,Asian,29,11.41732283
+Race / Ethnicity,205,Regional School District 05,Black or African American, - ,*
+Race / Ethnicity,205,Regional School District 05,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,205,Regional School District 05,Two or More Races, - ,*
+Race / Ethnicity,205,Regional School District 05,White,167,8.413098237
+Race / Ethnicity,206,Regional School District 06,American Indian or Alaska Native, - ,*
+Race / Ethnicity,206,Regional School District 06,Asian, - ,*
+Race / Ethnicity,206,Regional School District 06,Black or African American, - ,*
+Race / Ethnicity,206,Regional School District 06,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,206,Regional School District 06,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,206,Regional School District 06,Two or More Races, - ,*
+Race / Ethnicity,206,Regional School District 06,White,59,6.095041322
+Race / Ethnicity,207,Regional School District 07,American Indian or Alaska Native, - ,*
+Race / Ethnicity,207,Regional School District 07,Asian, - ,*
+Race / Ethnicity,207,Regional School District 07,Black or African American, - ,*
+Race / Ethnicity,207,Regional School District 07,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,207,Regional School District 07,Two or More Races, - ,*
+Race / Ethnicity,207,Regional School District 07,White,213,19.55922865
+Race / Ethnicity,208,Regional School District 08,American Indian or Alaska Native, - ,*
+Race / Ethnicity,208,Regional School District 08,Asian, - ,*
+Race / Ethnicity,208,Regional School District 08,Black or African American, - ,*
+Race / Ethnicity,208,Regional School District 08,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,208,Regional School District 08,White,232,13.71969249
+Race / Ethnicity,209,Regional School District 09,American Indian or Alaska Native, - ,*
+Race / Ethnicity,209,Regional School District 09,Asian, - ,*
+Race / Ethnicity,209,Regional School District 09,Black or African American, - ,*
+Race / Ethnicity,209,Regional School District 09,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,209,Regional School District 09,Two or More Races, - ,*
+Race / Ethnicity,209,Regional School District 09,White,133,14.44082519
+Race / Ethnicity,210,Regional School District 10,Asian, - ,*
+Race / Ethnicity,210,Regional School District 10,Black or African American, - ,*
+Race / Ethnicity,210,Regional School District 10,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,210,Regional School District 10,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,210,Regional School District 10,Two or More Races, - ,*
+Race / Ethnicity,210,Regional School District 10,White,200,7.902015014
+Race / Ethnicity,211,Regional School District 11,American Indian or Alaska Native, - ,*
+Race / Ethnicity,211,Regional School District 11,Asian, - ,*
+Race / Ethnicity,211,Regional School District 11,Black or African American, - ,*
+Race / Ethnicity,211,Regional School District 11,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,211,Regional School District 11,Two or More Races, - ,*
+Race / Ethnicity,211,Regional School District 11,White, - ,*
+Race / Ethnicity,212,Regional School District 12,Asian, - ,*
+Race / Ethnicity,212,Regional School District 12,Black or African American, - ,*
+Race / Ethnicity,212,Regional School District 12,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,212,Regional School District 12,Two or More Races, - ,*
+Race / Ethnicity,212,Regional School District 12,White,79,9.75308642
+Race / Ethnicity,213,Regional School District 13,Asian, - ,*
+Race / Ethnicity,213,Regional School District 13,Black or African American, - ,*
+Race / Ethnicity,213,Regional School District 13,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,213,Regional School District 13,Two or More Races, - ,*
+Race / Ethnicity,214,Regional School District 13,White,84,4.547915539
+Race / Ethnicity,214,Regional School District 14,American Indian or Alaska Native, - ,*
+Race / Ethnicity,214,Regional School District 14,Asian, - ,*
+Race / Ethnicity,214,Regional School District 14,Black or African American, - ,*
+Race / Ethnicity,214,Regional School District 14,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,214,Regional School District 14,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,214,Regional School District 14,Two or More Races, - ,*
+Race / Ethnicity,214,Regional School District 14,White,59,3.115100317
+Race / Ethnicity,215,Regional School District 15,American Indian or Alaska Native, - ,*
+Race / Ethnicity,215,Regional School District 15,Asian, - ,*
+Race / Ethnicity,215,Regional School District 15,Black or African American, - ,*
+Race / Ethnicity,215,Regional School District 15,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,215,Regional School District 15,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,215,Regional School District 15,Two or More Races, - ,*
+Race / Ethnicity,215,Regional School District 15,White,156,4.147833023
+Race / Ethnicity,216,Regional School District 16,Asian, - ,*
+Race / Ethnicity,216,Regional School District 16,Black or African American, - ,*
+Race / Ethnicity,216,Regional School District 16,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,216,Regional School District 16,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,216,Regional School District 16,Two or More Races, - ,*
+Race / Ethnicity,216,Regional School District 16,White,163,7.283288651
+Race / Ethnicity,217,Regional School District 17,American Indian or Alaska Native, - ,*
+Race / Ethnicity,217,Regional School District 17,Asian, - ,*
+Race / Ethnicity,217,Regional School District 17,Black or African American, - ,*
+Race / Ethnicity,217,Regional School District 17,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,217,Regional School District 17,Two or More Races, - ,*
+Race / Ethnicity,217,Regional School District 17,White,93,4.179775281
+Race / Ethnicity,218,Regional School District 18,American Indian or Alaska Native, - ,*
+Race / Ethnicity,218,Regional School District 18,Asian, - ,*
+Race / Ethnicity,218,Regional School District 18,Black or African American, - ,*
+Race / Ethnicity,218,Regional School District 18,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,218,Regional School District 18,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,218,Regional School District 18,Two or More Races, - ,*
+Race / Ethnicity,218,Regional School District 18,White,60,4.494382022
+Race / Ethnicity,219,Regional School District 19,American Indian or Alaska Native, - ,*
+Race / Ethnicity,219,Regional School District 19,Asian, - ,*
+Race / Ethnicity,219,Regional School District 19,Black or African American, - ,*
+Race / Ethnicity,219,Regional School District 19,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,219,Regional School District 19,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,219,Regional School District 19,Two or More Races, - ,*
+Race / Ethnicity,219,Regional School District 19,White,145,13.7963844
+Race / Ethnicity,241,Capitol Region Education Council,American Indian or Alaska Native, - ,*
+Race / Ethnicity,241,Capitol Region Education Council,Asian,42,14.04682274
+Race / Ethnicity,241,Capitol Region Education Council,Black or African American,202,11.77842566
+Race / Ethnicity,241,Capitol Region Education Council,Hispanic/Latino of any race,299,20.1754386
+Race / Ethnicity,241,Capitol Region Education Council,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,241,Capitol Region Education Council,Two or More Races,21,15
+Race / Ethnicity,241,Capitol Region Education Council,White,239,13.62599772
+Race / Ethnicity,242,Education Connection,American Indian or Alaska Native, - ,*
+Race / Ethnicity,242,Education Connection,Asian, - ,*
+Race / Ethnicity,242,Education Connection,Black or African American, - ,*
+Race / Ethnicity,242,Education Connection,Hispanic/Latino of any race,21,84
+Race / Ethnicity,242,Education Connection,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,242,Education Connection,White,62,86.11111111
+Race / Ethnicity,243,Cooperative Educational Services,American Indian or Alaska Native, - ,*
+Race / Ethnicity,243,Cooperative Educational Services,Asian, - ,*
+Race / Ethnicity,243,Cooperative Educational Services,Black or African American,35,13.94422311
+Race / Ethnicity,243,Cooperative Educational Services,Hispanic/Latino of any race,57,21.92307692
+Race / Ethnicity,243,Cooperative Educational Services,Two or More Races, - ,*
+Race / Ethnicity,243,Cooperative Educational Services,White,58,20.35087719
+Race / Ethnicity,244,Area Cooperative Educational Services,American Indian or Alaska Native, - ,*
+Race / Ethnicity,244,Area Cooperative Educational Services,Asian, - ,*
+Race / Ethnicity,244,Area Cooperative Educational Services,Black or African American,105,18.29268293
+Race / Ethnicity,244,Area Cooperative Educational Services,Hispanic/Latino of any race,104,19.58568738
+Race / Ethnicity,244,Area Cooperative Educational Services,Two or More Races, - ,*
+Race / Ethnicity,244,Area Cooperative Educational Services,White,103,14.77761836
+Race / Ethnicity,245,Learn,American Indian or Alaska Native, - ,*
+Race / Ethnicity,245,Learn,Asian, - ,*
+Race / Ethnicity,245,Learn,Black or African American,54,23.89380531
+Race / Ethnicity,245,Learn,Hispanic/Latino of any race,111,24.77678571
+Race / Ethnicity,245,Learn,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,245,Learn,Two or More Races, - ,*
+Race / Ethnicity,245,Learn,White,63,9.737248841
+Race / Ethnicity,253,Eastern Connecticut Regional Educational Service ,American Indian or Alaska Native, - ,*
+Race / Ethnicity,253,Eastern Connecticut Regional Educational Service ,Asian, - ,*
+Race / Ethnicity,253,Eastern Connecticut Regional Educational Service ,Black or African American, - ,*
+Race / Ethnicity,253,Eastern Connecticut Regional Educational Service ,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,253,Eastern Connecticut Regional Educational Service ,Two or More Races, - ,*
+Race / Ethnicity,253,Eastern Connecticut Regional Educational Service ,White,41,16.80327869
+Race / Ethnicity,261,Jumoke Academy District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,261,Jumoke Academy District,Black or African American, - ,*
+Race / Ethnicity,261,Jumoke Academy District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,261,Jumoke Academy District,White, - ,*
+Race / Ethnicity,263,Odyssey Community School District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,263,Odyssey Community School District,Asian, - ,*
+Race / Ethnicity,263,Odyssey Community School District,Black or African American, - ,*
+Race / Ethnicity,263,Odyssey Community School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,263,Odyssey Community School District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,263,Odyssey Community School District,Two or More Races, - ,*
+Race / Ethnicity,263,Odyssey Community School District,White, - ,*
+Race / Ethnicity,264,Integrated Day Charter School District,Asian, - ,*
+Race / Ethnicity,264,Integrated Day Charter School District,Black or African American, - ,*
+Race / Ethnicity,264,Integrated Day Charter School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,264,Integrated Day Charter School District,Two or More Races, - ,*
+Race / Ethnicity,264,Integrated Day Charter School District,White, - ,*
+Race / Ethnicity,265,Interdistrict School for Arts and Comm District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,265,Interdistrict School for Arts and Comm District,Asian, - ,*
+Race / Ethnicity,265,Interdistrict School for Arts and Comm District,Black or African American, - ,*
+Race / Ethnicity,265,Interdistrict School for Arts and Comm District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,265,Interdistrict School for Arts and Comm District,Two or More Races, - ,*
+Race / Ethnicity,265,Interdistrict School for Arts and Comm District,White, - ,*
+Race / Ethnicity,268,Common Ground High School District,Asian, - ,*
+Race / Ethnicity,268,Common Ground High School District,Black or African American, - ,*
+Race / Ethnicity,268,Common Ground High School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,268,Common Ground High School District,Two or More Races, - ,*
+Race / Ethnicity,268,Common Ground High School District,White, - ,*
+Race / Ethnicity,269,The Bridge Academy District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,269,The Bridge Academy District,Asian, - ,*
+Race / Ethnicity,269,The Bridge Academy District,Black or African American, - ,*
+Race / Ethnicity,269,The Bridge Academy District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,269,The Bridge Academy District,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,269,The Bridge Academy District,Two or More Races, - ,*
+Race / Ethnicity,269,The Bridge Academy District,White, - ,*
+Race / Ethnicity,270,Side By Side Charter School District,Asian, - ,*
+Race / Ethnicity,270,Side By Side Charter School District,Black or African American, - ,*
+Race / Ethnicity,270,Side By Side Charter School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,270,Side By Side Charter School District,Two or More Races, - ,*
+Race / Ethnicity,270,Side By Side Charter School District,White, - ,*
+Race / Ethnicity,272,Explorations District,Black or African American, - ,*
+Race / Ethnicity,272,Explorations District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,272,Explorations District,White, - ,*
+Race / Ethnicity,278,Trailblazers Academy District,Asian, - ,*
+Race / Ethnicity,278,Trailblazers Academy District,Black or African American, - ,*
+Race / Ethnicity,278,Trailblazers Academy District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,278,Trailblazers Academy District,White, - ,*
+Race / Ethnicity,279,Amistad Academy District,American Indian or Alaska Native, - ,*
+Race / Ethnicity,279,Amistad Academy District,Black or African American, - ,*
+Race / Ethnicity,279,Amistad Academy District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,279,Amistad Academy District,White, - ,*
+Race / Ethnicity,280,New Beginnings Inc. Family Academy District,Black or African American,20,7.722007722
+Race / Ethnicity,280,New Beginnings Inc. Family Academy District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,280,New Beginnings Inc. Family Academy District,White, - ,*
+Race / Ethnicity,282,Stamford Academy,Asian, - ,*
+Race / Ethnicity,282,Stamford Academy,Black or African American, - ,*
+Race / Ethnicity,282,Stamford Academy,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,282,Stamford Academy,Two or More Races, - ,*
+Race / Ethnicity,282,Stamford Academy,White, - ,*
+Race / Ethnicity,283,Park City Prep Charter School,Asian, - ,*
+Race / Ethnicity,283,Park City Prep Charter School,Black or African American, - ,*
+Race / Ethnicity,283,Park City Prep Charter School,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,283,Park City Prep Charter School,Two or More Races, - ,*
+Race / Ethnicity,283,Park City Prep Charter School,White, - ,*
+Race / Ethnicity,285,Bridgeport Achievement First,American Indian or Alaska Native, - ,*
+Race / Ethnicity,285,Bridgeport Achievement First,Asian, - ,*
+Race / Ethnicity,285,Bridgeport Achievement First,Black or African American, - ,*
+Race / Ethnicity,285,Bridgeport Achievement First,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,285,Bridgeport Achievement First,Two or More Races, - ,*
+Race / Ethnicity,285,Bridgeport Achievement First,White, - ,*
+Race / Ethnicity,286,Highville Charter School District,Asian, - ,*
+Race / Ethnicity,286,Highville Charter School District,Black or African American, - ,*
+Race / Ethnicity,286,Highville Charter School District,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,286,Highville Charter School District,Two or More Races, - ,*
+Race / Ethnicity,286,Highville Charter School District,White, - ,*
+Race / Ethnicity,901,Norwich Free Academy,American Indian or Alaska Native, - ,*
+Race / Ethnicity,901,Norwich Free Academy,Asian, - ,*
+Race / Ethnicity,901,Norwich Free Academy,Black or African American,51,8.031496063
+Race / Ethnicity,901,Norwich Free Academy,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,901,Norwich Free Academy,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,901,Norwich Free Academy,Two or More Races, - ,*
+Race / Ethnicity,289,Elm City College Preparatory School,American Indian or Alaska Native, - ,*
+Race / Ethnicity,289,Elm City College Preparatory School,Asian, - ,*
+Race / Ethnicity,289,Elm City College Preparatory School,Black or African American, - ,*
+Race / Ethnicity,289,Elm City College Preparatory School,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,289,Elm City College Preparatory School,Two or More Races, - ,*
+Race / Ethnicity,289,Elm City College Preparatory School,White, - ,*
+Race / Ethnicity,336,Unified School District #1,American Indian or Alaska Native, - ,*
+Race / Ethnicity,336,Unified School District #1,Black or African American,184,47.42268041
+Race / Ethnicity,336,Unified School District #1,Hispanic/Latino of any race,86,43.87755102
+Race / Ethnicity,336,Unified School District #1,Two or More Races, - ,*
+Race / Ethnicity,336,Unified School District #1,White,38,40.42553191
+Race / Ethnicity,337,Department of Mental Health and Addiction Services,Black or African American, - ,*
+Race / Ethnicity,337,Department of Mental Health and Addiction Services,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,337,Department of Mental Health and Addiction Services,White, - ,*
+Race / Ethnicity,347,Unified School District #2,Black or African American, - ,*
+Race / Ethnicity,347,Unified School District #2,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,347,Unified School District #2,Two or More Races, - ,*
+Race / Ethnicity,347,Unified School District #2,White, - ,*
+Race / Ethnicity,900,Connecticut Technical High School System,American Indian or Alaska Native, - ,*
+Race / Ethnicity,900,Connecticut Technical High School System,Asian, - ,*
+Race / Ethnicity,900,Connecticut Technical High School System,Black or African American,163,11.13387978
+Race / Ethnicity,900,Connecticut Technical High School System,Hispanic/Latino of any race,371,11.91011236
+Race / Ethnicity,900,Connecticut Technical High School System,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,900,Connecticut Technical High School System,Two or More Races, - ,*
+Race / Ethnicity,900,Connecticut Technical High School System,White,483,8.718411552
+Race / Ethnicity,901,Norwich Free Academy,American Indian or Alaska Native, - ,*
+Race / Ethnicity,901,Norwich Free Academy,Asian, - ,*
+Race / Ethnicity,901,Norwich Free Academy,Black or African American,21,8.898305085
+Race / Ethnicity,901,Norwich Free Academy,Hispanic/Latino of any race,54,17.47572816
+Race / Ethnicity,901,Norwich Free Academy,Native Hawaiian or Other Pacific Islander, - ,*
+Race / Ethnicity,901,Norwich Free Academy,Two or More Races,24,14.54545455
+Race / Ethnicity,901,Norwich Free Academy,White,128,9.446494465
+Race / Ethnicity,902,The Gilbert School,American Indian or Alaska Native, - ,*
+Race / Ethnicity,902,The Gilbert School,Asian, - ,*
+Race / Ethnicity,902,The Gilbert School,Black or African American, - ,*
+Race / Ethnicity,902,The Gilbert School,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,902,The Gilbert School,Two or More Races, - ,*
+Race / Ethnicity,902,The Gilbert School,White,58,13.74407583
+Race / Ethnicity,903,Woodstock Academy,American Indian or Alaska Native, - ,*
+Race / Ethnicity,903,Woodstock Academy,Asian, - ,*
+Race / Ethnicity,903,Woodstock Academy,Black or African American, - ,*
+Race / Ethnicity,903,Woodstock Academy,Hispanic/Latino of any race, - ,*
+Race / Ethnicity,903,Woodstock Academy,Two or More Races, - ,*
+Race / Ethnicity,903,Woodstock Academy,White,63,6.422018349
+ELL,1,Andover School District,ELL, - ,*
+ELL,2,Ansonia School District,ELL, - ,*
+ELL,3,Ashford School District,ELL, - ,*
+ELL,4,Avon School District,ELL, - ,*
+ELL,5,Barkhamsted School District,ELL, - ,*
+ELL,7,Berlin School District,ELL, - ,*
+ELL,8,Bethany School District,ELL, - ,*
+ELL,9,Bethel School District,ELL, - ,*
+ELL,11,Bloomfield School District,ELL, - ,*
+ELL,12,Bolton School District,ELL, - ,*
+ELL,14,Branford School District,ELL, - ,*
+ELL,15,Bridgeport School District,ELL,536,20.67901235
+ELL,17,Bristol School District,ELL,67,23.42657343
+ELL,18,Brookfield School District,ELL, - ,*
+ELL,19,Brooklyn School District,ELL, - ,*
+ELL,23,Canton School District,ELL, - ,*
+ELL,25,Cheshire School District,ELL, - ,*
+ELL,26,Chester School District,ELL, - ,*
+ELL,27,Clinton School District,ELL, - ,*
+ELL,28,Colchester School District,ELL, - ,*
+ELL,32,Coventry School District,ELL, - ,*
+ELL,33,Cromwell School District,ELL, - ,*
+ELL,34,Danbury School District,ELL,263,12.98124383
+ELL,35,Darien School District,ELL, - ,*
+ELL,36,Deep River School District,ELL, - ,*
+ELL,37,Derby School District,ELL, - ,*
+ELL,40,East Granby School District,ELL, - ,*
+ELL,41,East Haddam School District,ELL, - ,*
+ELL,42,East Hampton School District,ELL, - ,*
+ELL,43,East Hartford School District,ELL,63,10.73253833
+ELL,44,East Haven School District,ELL,21,10.29411765
+ELL,45,East Lyme School District,ELL, - ,*
+ELL,46,Easton School District,ELL, - ,*
+ELL,47,East Windsor School District,ELL, - ,*
+ELL,48,Ellington School District,ELL, - ,*
+ELL,49,Enfield School District,ELL, - ,*
+ELL,50,Essex School District,ELL, - ,*
+ELL,51,Fairfield School District,ELL, - ,*
+ELL,52,Farmington School District,ELL, - ,*
+ELL,54,Glastonbury School District,ELL, - ,*
+ELL,56,Granby School District,ELL, - ,*
+ELL,57,Greenwich School District,ELL,30,6.097560976
+ELL,58,Griswold School District,ELL, - ,*
+ELL,59,Groton School District,ELL,20,19.04761905
+ELL,60,Guilford School District,ELL, - ,*
+ELL,62,Hamden School District,ELL,26,10.27667984
+ELL,64,Hartford School District,ELL,1247,35.13665821
+ELL,67,Hebron School District,ELL, - ,*
+ELL,69,Killingly School District,ELL, - ,*
+ELL,71,Lebanon School District,ELL, - ,*
+ELL,72,Ledyard School District,ELL, - ,*
+ELL,73,Lisbon School District,ELL, - ,*
+ELL,74,Litchfield School District,ELL, - ,*
+ELL,76,Madison School District,ELL, - ,*
+ELL,77,Manchester School District,ELL,64,19.57186544
+ELL,78,Mansfield School District,ELL, - ,*
+ELL,79,Marlborough School District,ELL, - ,*
+ELL,80,Meriden School District,ELL,154,15.63451777
+ELL,83,Middletown School District,ELL, - ,*
+ELL,84,Milford School District,ELL, - ,*
+ELL,85,Monroe School District,ELL, - ,*
+ELL,86,Montville School District,ELL, - ,*
+ELL,88,Naugatuck School District,ELL,24,13.18681319
+ELL,89,New Britain School District,ELL,546,32.5
+ELL,90,New Canaan School District,ELL, - ,*
+ELL,91,New Fairfield School District,ELL, - ,*
+ELL,92,New Hartford School District,ELL, - ,*
+ELL,93,New Haven School District,ELL,570,21.61547213
+ELL,94,Newington School District,ELL, - ,*
+ELL,95,New London School District,ELL,167,25.57427259
+ELL,96,New Milford School District,ELL, - ,*
+ELL,97,Newtown School District,ELL, - ,*
+ELL,99,North Branford School District,ELL, - ,*
+ELL,100,North Canaan School District,ELL, - ,*
+ELL,101,North Haven School District,ELL, - ,*
+ELL,103,Norwalk School District,ELL,116,8.689138577
+ELL,104,Norwich School District,ELL,66,14.47368421
+ELL,106,Old Saybrook School District,ELL, - ,*
+ELL,107,Orange School District,ELL, - ,*
+ELL,108,Oxford School District,ELL, - ,*
+ELL,109,Plainfield School District,ELL, - ,*
+ELL,110,Plainville School District,ELL, - ,*
+ELL,111,Plymouth School District,ELL, - ,*
+ELL,112,Pomfret School District,ELL, - ,*
+ELL,113,Portland School District,ELL, - ,*
+ELL,114,Preston School District,ELL, - ,*
+ELL,116,Putnam School District,ELL, - ,*
+ELL,117,Redding School District,ELL, - ,*
+ELL,118,Ridgefield School District,ELL, - ,*
+ELL,119,Rocky Hill School District,ELL, - ,*
+ELL,121,Salem School District,ELL, - ,*
+ELL,124,Seymour School District,ELL, - ,*
+ELL,126,Shelton School District,ELL, - ,*
+ELL,127,Sherman School District,ELL, - ,*
+ELL,128,Simsbury School District,ELL, - ,*
+ELL,129,Somers School District,ELL, - ,*
+ELL,131,Southington School District,ELL, - ,*
+ELL,132,South Windsor School District,ELL, - ,*
+ELL,133,Sprague School District,ELL, - ,*
+ELL,134,Stafford School District,ELL, - ,*
+ELL,135,Stamford School District,ELL,238,11.57587549
+ELL,137,Stonington School District,ELL, - ,*
+ELL,138,Stratford School District,ELL,29,8.504398827
+ELL,139,Suffield School District,ELL, - ,*
+ELL,140,Thomaston School District,ELL, - ,*
+ELL,141,Thompson School District,ELL, - ,*
+ELL,142,Tolland School District,ELL, - ,*
+ELL,143,Torrington School District,ELL,25,7.645259939
+ELL,144,Trumbull School District,ELL,20,13.88888889
+ELL,146,Vernon School District,ELL, - ,*
+ELL,148,Wallingford School District,ELL,25,10.08064516
+ELL,151,Waterbury School District,ELL,436,22.04246714
+ELL,152,Waterford School District,ELL, - ,*
+ELL,153,Watertown School District,ELL, - ,*
+ELL,154,Westbrook School District,ELL, - ,*
+ELL,155,West Hartford School District,ELL,67,12.81070746
+ELL,156,West Haven School District,ELL,60,8.849557522
+ELL,157,Weston School District,ELL, - ,*
+ELL,158,Westport School District,ELL, - ,*
+ELL,159,Wethersfield School District,ELL, - ,*
+ELL,160,Willington School District,ELL, - ,*
+ELL,161,Wilton School District,ELL, - ,*
+ELL,162,Winchester School District,ELL, - ,*
+ELL,163,Windham School District,ELL,158,19.79949875
+ELL,164,Windsor School District,ELL, - ,*
+ELL,165,Windsor Locks School District,ELL, - ,*
+ELL,166,Wolcott School District,ELL, - ,*
+ELL,167,Woodbridge School District,ELL, - ,*
+ELL,169,Woodstock School District,ELL, - ,*
+ELL,204,Regional School District 04,ELL, - ,*
+ELL,205,Regional School District 05,ELL, - ,*
+ELL,206,Regional School District 06,ELL, - ,*
+ELL,207,Regional School District 07,ELL, - ,*
+ELL,208,Regional School District 08,ELL, - ,*
+ELL,209,Regional School District 09,ELL, - ,*
+ELL,210,Regional School District 10,ELL, - ,*
+ELL,212,Regional School District 12,ELL, - ,*
+ELL,213,Regional School District 13,ELL, - ,*
+ELL,214,Regional School District 14,ELL, - ,*
+ELL,215,Regional School District 15,ELL, - ,*
+ELL,216,Regional School District 16,ELL, - ,*
+ELL,217,Regional School District 17,ELL, - ,*
+ELL,218,Regional School District 18,ELL, - ,*
+ELL,219,Regional School District 19,ELL, - ,*
+ELL,241,Capitol Region Education Council,ELL,22,18.18181818
+ELL,244,Area Cooperative Educational Services,ELL, - ,*
+ELL,245,Learn,ELL, - ,*
+ELL,253,Eastern Connecticut Regional Educational Service C,ELL, - ,*
+ELL,261,Jumoke Academy District,ELL, - ,*
+ELL,264,Integrated Day Charter School District,ELL, - ,*
+ELL,265,Interdistrict School for Arts and Comm District,ELL, - ,*
+ELL,268,Common Ground High School District,ELL, - ,*
+ELL,270,Side By Side Charter School District,ELL, - ,*
+ELL,279,Amistad Academy District,ELL, - ,*
+ELL,283,Park City Prep Charter School,ELL, - ,*
+ELL,285,Bridgeport Achievement First,ELL, - ,*
+ELL,288,Achievement First Hartford Academy Inc.,ELL, - ,*
+ELL,289,Elm City College Preparatory School,ELL, - ,*
+ELL,347,Unified School District #2,ELL, - ,*
+ELL,900,Connecticut Technical High School System,ELL,22,8.365019011
+ELL,901,Norwich Free Academy,ELL, - ,*
+ELL,902,The Gilbert School,ELL, - ,*
+ELL,903,Woodstock Academy,ELL, - ,*

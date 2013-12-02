@@ -1,0 +1,35 @@
+Type,DRG,District,Enrollment,Number of arrests,Arrests per thousand kids,Enrollbin
+Suburban,B,Avon,3545,NA,NA,1000 - 5000
+Suburban,C,Bolton,897,NA,NA,Less than 1000
+Suburban,C,Canton,1777,NA,NA,1000 - 5000
+Suburban,B,Granby,2235,NA,NA,1000 - 5000
+Urban periphery,D,Rocky Hill,2576,NA,NA,1000 - 5000
+Rural,C,Somers,1630,NA,NA,1000 - 5000
+Suburban,C,Suffield,2499,NA,NA,1000 - 5000
+Suburban,C,Tolland,3046,NA,NA,1000 - 5000
+Suburban,F,Windsor Locks,1785,17,9.5,1000 - 5000
+Rural,F,Stafford,1854,17,9.2,1000 - 5000
+Urban periphery,F,Enfield,5880,49,8.5,5000 - 10000
+Suburban,H,Bloomfield,2196,17,7.7,1000 - 5000
+Suburban,C,Ellington,2726,21,7.7,1000 - 5000
+Urban periphery,D,Newington,4416,33,7.5,1000 - 5000
+Urban periphery,H,East Hartford,7098,49,6.9,5000 - 10000
+CREC,CREC,CREC,4650,29,6.2,1000 - 5000
+Rural,F,East Windsor,1329,7,5.3,1000 - 5000
+Urban periphery,G,Manchester,6807,36,5.3,5000 - 10000
+Urban periphery,D,Wethersfield,3792,19,5,1000 - 5000
+Suburban,B,South Windsor,4553,21,4.6,1000 - 5000
+Urban,I,Hartford,20931,97,4.6,> 10000
+Urban periphery,B,West Hartford,10207,45,4.4,5000 - 10000
+Urban periphery,G,Vernon,3598,13,3.6,1000 - 5000
+Suburban,B,Farmington,4124,15,3.6,1000 - 5000
+Urban periphery,D,Windsor,3613,10,2.8,1000 - 5000
+Suburban,B,Glastonbury,6797,13,1.9,5000 - 10000
+Suburban,B,Simsbury,4756,8,1.7,1000 - 5000
+Public Charter,Public Charter,Achievement First,610,0,0,Less than 1000
+Rural,C,Andover,334,0,0,Less than 1000
+Suburban,D,East Granby,889,0,0,Less than 1000
+Suburban,C,Hebron,1135,0,0,1000 - 5000
+Public Charter,Public Charter,Jumoke Academy,432,0,0,Less than 1000
+Suburban,C,Marlborough,673,0,0,Less than 1000
+Public Charter,Public Charter,Odyssey Community,181,0,0,Less than 1000
