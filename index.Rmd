@@ -14,6 +14,45 @@ mode        : selfcontained # {standalone, draft}
 
 This page reviews several additional indicators for consideration. Generally, these indicators are used rarely, if at all, in other reports but may be of particular relevance for the Hartford region. 
 
+### Re-entry rates
+
+Data on re-entry rates are collected by the CT Department of Correction. Total re-entry rates per town are plotted below. Hartford has much higher numbers of re-entries than the other towns. (Re-entry counts are not de-duplicated; the same individual could be counted more than once.)
+
+```{r echo = FALSE, warning = FALSE, message = FALSE}
+reentry <- read.csv("reentry.csv")
+reentry <- melt(reentry, id = c("TOWN","YEAR"))
+#Total for each town
+reentry <- ddply(reentry, .(YEAR, TOWN), summarise, value = sum(value))
+
+reentry$TOWN <- reorder(reentry$TOWN, reentry$value)
+library(scales)
+ggplot(data = reentry) + 
+  geom_point(aes(x = value, y = TOWN, colour = as.factor(YEAR))) + 
+  labs(x = 'Number of re-entries by year', y = NULL) + 
+  scale_colour_discrete(guide = guide_legend(title = NULL)) + 
+  scale_x_continuous(labels = comma) + 
+  theme_minimal()
+```
+
+As a percent of the labor force, re-entries are about 3 percent of the labor force for Hartford and below 1 percent for all other towns in the region. (This uses the '5 Connecticuts' grouping for towns in the region.)
+
+```{r echo = FALSE, warning = FALSE, message = FALSE, fig.height = 3}
+lf <- merge(lausann, towns, by = "Town")
+lf$Town <- toupper(lf$Town)
+reentry <- merge(reentry, lf, by.x = c("TOWN","YEAR"), by.y = c("Town","Year"))
+reentry$rate = reentry$value / reentry$LF
+
+reentry <- ddply(reentry, .(Towngroup), summarise, rate = weighted.mean(rate, LF))
+
+reentry$Towngroup <- reorder(reentry$Towngroup, reentry$rate)
+ggplot(data = reentry) + 
+  geom_point(aes(x = rate, y = Towngroup)) + 
+  labs(x = 'Number of re-entries / labor force (2009 - 2011)', y = NULL) + 
+  scale_colour_discrete(guide = guide_legend(title = NULL)) + 
+  scale_x_continuous(labels = percent, lim = c(0,0.05)) + 
+  theme_minimal()
+```
+
 ### 211 calls data
 
 United way of CT publishes some [data on calls to the 211](http://www.ctunitedway.org/media.asp). Data on call volumes by category and by town is available which would show the volume and trends in requests for assistance across the region in more detail. 
@@ -89,10 +128,6 @@ ggplot(data = walk, aes(x = Year, y = value)) +
   theme(strip.text.x = element_text(size =12)) +
   facet_grid(. ~ variable)
 ```
-
-### Re-entry rates
-
-Data on re-entry rates are not currently published by the CT Department of Correction. However, we are requesting if data on re-entry rates can be shared with this group as a potential indicator. More soon...
 
 ### School enrollment patterns
 
