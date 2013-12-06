@@ -16,7 +16,16 @@ This page reviews several additional indicators for consideration. Generally, th
 
 ### Re-entry rates
 
-Data on re-entry rates are collected by the CT Department of Correction. Total re-entry rates per town are plotted below. Hartford has much higher numbers of re-entries than the other towns. (Re-entry counts are not de-duplicated; the same individual could be counted more than once.)
+Data on re-entry rates are collected by the CT Department of Correction (DOC). The DOC tracks the following different types of release: 
+* Discharged End of Sentence
+* Released to a Halfway House
+* Released to Parole
+* Released to Parole Compact (CT Parolees in another state on parole)
+* Released to Reentry Furlough
+* Released to Special Parole
+* Released to Transitional Supervision
+
+Total re-entry rates for all discharge types are plotted below per town. Hartford has higher numbers of re-entries than the other towns. (Re-entry counts are not de-duplicated; the same individual could be counted more than once.)
 
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
 
@@ -25,6 +34,8 @@ As a percent of the labor force, re-entries are about 3 percent of the labor for
 
 ![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2.png) 
 
+
+The raw data on re-entry rates is posted [here](https://github.com/sgaul/hodgepodge/blob/gh-pages/reentry.csv).
 
 ### 211 calls data
 
